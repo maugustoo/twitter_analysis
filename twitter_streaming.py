@@ -3,7 +3,7 @@ from tweepy.streaming import StreamListener
 from tweepy import OAuthHandler
 from tweepy import Stream
 
-#Variables that contains the user credentials to access Twitter API 
+#Variables that contains the user credentials to access Twitter API
 access_token = "1133162248036397057-4nr0ov5wckscIl7qn7VDpc4ZH0qpMZ"
 access_token_secret = "pcVwjsXX6rjojG739RN5Xg5bGaqMqiLzNec530a3X8SrT"
 consumer_key = "IXqcqpM5dmljm41bAGkhJuspR"
@@ -27,8 +27,13 @@ if __name__ == '__main__':
     l = StdOutListener()
     auth = OAuthHandler(consumer_key, consumer_secret)
     auth.set_access_token(access_token, access_token_secret)
-    stream = Stream(auth, l)
+    stream = Stream(auth, l, tweet_mode='extended')
 
     #This line filter Twitter Streams to capture data by the keywords: 'python', 'javascript', 'ruby'
-    terms=['ladrão', 'bandido', 'saci', 'racista', 'racismo', 'escravo', 'senzala', 'nego', 'negro', 'neguin', 'neguim', 'criolo', 'crioulo', 'moreno', 'morenin', 'morenim', 'preto', 'preta', 'pixaim', 'pixain', 'macaco', 'macaca', 'urubu', 'cabelo ruim', 'negra bonita', 'beleza exótica', 'mulata']
+    terms = ['negraiada', 'negaiada', 'ladr', 'bandid', 'saci', 'racista',
+             'racismo', 'escrav', 'senzala', 'neg', 'negr', 'neguin', 'neguim',
+             'criol', 'crioul', 'moren', 'morenin', 'morenim', 'preto', 'preta',
+             'pixaim', 'pixain', 'macaco', 'macaca', 'urubu', 'cabelo ruim',
+             'negra bonita', 'beleza exótica', 'mulat', 'empregadinha', 'africa',
+             'nariz', 'beiço']
     stream.filter(track=terms, languages=['pt'])
