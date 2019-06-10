@@ -1079,7 +1079,7 @@
 {'text': 'RT @MenorDoMartins: Te amo minha preta 👩\u200d❤\u200d💋\u200d👩❤\n\nMesmo vc brava CMG ,😣kk https://t.co/dh0BoYdHtG', 'is_against': 0, 'is_racism': 0}
 {'text': 'odeio brancos, boa noite', 'is_against': 0, 'is_racism': 0}
 {'text': 'RT @Thalitao2: Tão confundindo mt transição capilar com "ser preta". Só pq assumiu o cabelo natural começa a falar que é pretx de pele clar…', 'is_against': 0, 'is_racism': 0}
-{'text': '@spfcvicky haja beiço', 'is_against': 0, 'is_racism': 0}
+{'text': '@spfcvicky haja beiço', 'is_against': 0, 'is_racism': 1}
 {'text': '@DemonSealer @bicmuller @brunacsou @SloganCry @Prod_by_Rond esse negócio vermelho é uma senhora???? pq o helicopter… https://t.co/VvyhhqFnWM', 'is_against': 0, 'is_racism': 0}
 {'text': 'RT @amordaspreta: arte preta! ✊🏿💛\n\n(iam.muse e j.muse no ig) https://t.co/55FsWem9sy', 'is_against': 0, 'is_racism': 0}
 {'text': 'vou ficar acordada só pra ter q contar um negócio pra minha mãe, auge \nhttps://t.co/spFePUuWiO', 'is_against': 0, 'is_racism': 0}
@@ -1131,7 +1131,7 @@
 {'text': 'o racismo pqp', 'is_against': 0, 'is_racism': 0}
 {'text': 'Gente o nervosismo é um negócio complicado mesmo', 'is_against': 0, 'is_racism': 0}
 {'text': 'Eu falei: " mãe, Bolsonaro é radical, pilotou um jet ski". \nEla: " Ele é uma graca, e não é ladrão, o outro tá preso"\n\nEla tem 78 anos', 'is_against': 0, 'is_racism': 0}
-{'text': 'matheus de beiço na escola', 'is_against': 0, 'is_racism': 0}
+{'text': 'matheus de beiço na escola', 'is_against': 0, 'is_racism': 1}
 {'text': '@malubossbitch @_thainadias @Beamarucco que foi macaca ?', 'is_against': 0, 'is_racism': 0}
 {'text': 'quero saber o dia que eu vou melhorar, não aguento mais ficar sem respirar com esse nariz congestionado', 'is_against': 0, 'is_racism': 0}
 {'text': 'se eu colocar um piercing esquerdo e ficar uma merda eu vou mandar essas 68% de 31 tomar no cu', 'is_against': 0, 'is_racism': 0}
@@ -1140,7 +1140,7 @@
 {'text': 'Posso nem pega um ventinho que meu nariz entope palhaçada viu', 'is_against': 0, 'is_racism': 0}
 {'text': '@kissesforvkook por aqui , anjo \n\nhttps://t.co/15usPy3xjq', 'is_against': 0, 'is_racism': 0}
 {'text': 'eu to cagado de urubu mesmo só pode', 'is_against': 0, 'is_racism': 0}
-{'text': '@se_abraall @PortalRapmais Ela disse q é mais fácil ser preto *no rap*', 'is_against': 0, 'is_racism': 0}
+{'text': '@se_abraall @PortalRapmais Ela disse q é mais fácil ser preto *no rap*', 'is_against': 1, 'is_racism': 1}
 {'text': '@Maduhprado_09 Kkkkkkkkkkkk também te amo minha preta', 'is_against': 0, 'is_racism': 0}
 {'text': '@melbeebr @geocaio @majups_ chamar branca de racista agora é machismo kkkkkkkkkkkkkk pqp o surto', 'is_against': 0, 'is_racism': 0}
 {'text': 'Essa chuva tá de fudê o cu do palhaço brother \nminha tia tava passando de bicicleta com meu primo no corredor da vi… https://t.co/4FKfiRbeaY', 'is_against': 0, 'is_racism': 0}

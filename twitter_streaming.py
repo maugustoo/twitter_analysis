@@ -35,5 +35,5 @@ if __name__ == '__main__':
              'criol', 'crioul', 'moren', 'morenin', 'morenim', 'preto', 'preta',
              'pixaim', 'pixain', 'macaco', 'macaca', 'urubu', 'cabelo ruim',
              'negra bonita', 'beleza exótica', 'mulat', 'empregadinha', 'africa',
-             'nariz', 'beiço']
+             'nariz', 'beiço', 'denegrir', 'esclarecer']
     stream.filter(track=terms, languages=['pt'])
