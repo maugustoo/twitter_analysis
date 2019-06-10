@@ -1090,7 +1090,9 @@
 {'text': '@stefanmrr 1. Já pode usar sobretudo\n2. "Faz frio em Porto Alegre toda noite" é a maior mentira já cantada pelo… https://t.co/X5hPBvYSkQ', 'is_against': 0, 'is_racism': 0}
 {'text': '@julianaIi só tenho com o  nariz msm amg pq de resto só ladeira a baixo', 'is_against': 0, 'is_racism': 0}
 {'text': '@_lisanty_ @folha Quem faz festival para ladrão e vai às ruas defender bandidos, traficantes, maconheiros são vocês… https://t.co/ptbt7jc5Ty', 'is_against': 0, 'is_racism': 0}
-{'text': 'caralho mano o frio acabou de começar e meu nariz já tá todo machucado', 'is_against': 0, 'is_racism': 0}
+{'text': 'caralho mano o frio acabou de começar e meu nariz já tá todo machucado', 'is_again
+
+st': 0, 'is_racism': 0}
 {'text': 'esse negócio de presente do dia dos namorados tá me deixando doida kkkk\U0001f92f\U0001f92f', 'is_against': 0, 'is_racism': 0}
 {'text': 'Não acredito nesse negócio  de influência, cada um tem sua vida, faz errado quem quiser.', 'is_against': 0, 'is_racism': 0}
 {'text': '@gmotta110 @mluizamnso @letisennab caraiii neguin vdd kkkkkkk eu nem ia ficar em pé lá fora n pô, magina', 'is_against': 0, 'is_racism': 0}
@@ -1152,7 +1154,7 @@
 {'text': 'RT @policiasurpresa: O crime é impossivel acabar totalmente porque a mente humana veio do macaco, um animal assassino', 'is_against': 0, 'is_racism': 0}
 {'text': '@pierectheveil amiga ele postou um video de um macaco enfiando o dedo no cu de outro os alex sao todos iguais', 'is_against': 0, 'is_racism': 0}
 {'text': 'Mas eu sei lá, não sei puxar assunto assim — vei me chama na dm aí eu t ajudo a desembolar esse negócio adoro ser c… https://t.co/R8hqChkfC1', 'is_against': 0, 'is_racism': 0}
-{'text': 'RT @vicentiza: Olhem os comentários, as pessoas achando lindo o apagamento de um preto BILIONÁRIO em nome do feminismo\n\notários e otárias h…', 'is_against': 0, 'is_racism': 0}
+{'text': 'RT @vicentiza: Olhem os comentários, as pessoas achando lindo o apagamento de um preto BILIONÁRIO em nome do feminismo\n\notários e otárias h…', 'is_against': 1, 'is_racism': 1}
 {'text': 'Ops cai aqui em cima de vc e apertei seus peitos sem querer, agora vc me joga pra longe e me chama de hentai com um… https://t.co/yi823KvQUW', 'is_against': 0, 'is_racism': 0}
 {'text': 'Comprei um negócio mt iti malia, pena q leva 9 dias p chegar, tinha que chegar até terça :(', 'is_against': 0, 'is_racism': 0}
 {'text': 'A VAI TOMAR NO CU', 'is_against': 0, 'is_racism': 0}
@@ -1256,7 +1258,7 @@
 {'text': 'Nao bastasse vazar pelos olhos agora é o nariz', 'is_against': 0, 'is_racism': 0}
 {'text': 'pq o cabelo dele ta preto se agora eh castanho', 'is_against': 0, 'is_racism': 0}
 {'text': 'Maconha não é droga KKKKK', 'is_against': 0, 'is_racism': 0}
-{'text': 'RT @bailededubai1: \U0001f9d4🏽 -  MARIDO\nAmor, me atrasei pq tinha um macaco tentando roubar minha moto, dai acabei saindo na porrada com ele..…', 'is_against': 0, 'is_racism': 0}
+{'text': 'RT @bailededubai1: \U0001f9d4🏽 -  MARIDO\nAmor, me atrasei pq tinha um macaco tentando roubar minha moto, dai acabei saindo na porrada com ele..…', 'is_against': 0, 'is_racism': 1}
 {'text': 'Amém', 'is_against': 0, 'is_racism': 0}
 {'text': 'RT @Avada_KedavraHM: eis que o professor que já deixou explicito não ir com minha cara, será obrigado a me engolir depois de eu ter sido o…', 'is_against': 0, 'is_racism': 0}
 {'text': 'Óbvio que quem diz homofóbico diz sexista, racista etc etc, essas características fazem-vos uma merda no entanto nã… https://t.co/dtl91v8BMz', 'is_against': 0, 'is_racism': 0}
@@ -1265,7 +1267,7 @@
 {'text': 'RT @Nailahnv: Dá uma olhada nesse especial do do @generonumero sobre Racismo Religioso, está completíssimo https://t.co/C2L8Fbs8AY', 'is_against': 0, 'is_racism': 0}
 {'text': '@arianagranxe na onde a galera tá vendo branco?? vai com a preta mo', 'is_against': 0, 'is_racism': 0}
 {'text': 'Se nariz crescesse depois de mentir, o nariz dessa loca aí que tá falando que foi estuprada pelo Neymar ia tá furando o sol', 'is_against': 0, 'is_racism': 0}
-{'text': 'Vc sabe quanto é difícil um negro conseguir algum destaque na porra da sociedade racista ? Aí vem vc querer irnon…… https://t.co/IcnasV3dpo', 'is_against': 0, 'is_racism': 0}
+{'text': 'Vc sabe quanto é difícil um negro conseguir algum destaque na porra da sociedade racista ? Aí vem vc querer irnon…… https://t.co/IcnasV3dpo', 'is_against': 1, 'is_racism': 1}
 {'text': 'minha respiração pelo nariz em dias normais já é quase nula, quando fico gripada é simplesmente impossível respirar', 'is_against': 0, 'is_racism': 0}
 {'text': 'mas meu Deus do céu esse negócio de Neymar eu não aguento mais sinceramente', 'is_against': 0, 'is_racism': 0}
 {'text': 'Parabéns a essa moçada maravilhosa. E só pra constar, amo Rib Preto.\nA Copa do Mundo de Futsal Down foi realizada d… https://t.co/bFewMIPCLL', 'is_against': 0, 'is_racism': 0}
@@ -1315,7 +1317,7 @@
 {'text': 'RT @tomfm_: AH NÃO \U0001f926🏻\u200d♂️ https://t.co/KN3nXOTOBV', 'is_against': 0, 'is_racism': 0}
 {'text': '@larireb6 você que mora lá na casa onde João perdeu as botas minha preta, to só esperando vir pra cá', 'is_against': 0, 'is_racism': 0}
 {'text': 'RT @marquenhus: ◤◥￣◤◥￣◤◥￣◤◥￣◤◥\nOLHA O RACISMO REVERSO\n◤◥￣◤◥￣◤◥￣◤◥￣◤◥\nÉ MENTIRA\n◤◥￣◤◥￣◤◥￣◤◥￣◤◥', 'is_against': 0, 'is_racism': 0}
-{'text': 'É @AecioNeves o cerco está apertando para o seu lado. \nA coisa tá ficando preta pro seu lado. Não sou vidente, mas… https://t.co/MMgxTCd8BJ', 'is_against': 0, 'is_racism': 0}
+{'text': 'É @AecioNeves o cerco está apertando para o seu lado. \nA coisa tá ficando preta pro seu lado. Não sou vidente, mas… https://t.co/MMgxTCd8BJ', 'is_against': 0, 'is_racism': 1}
 {'text': 'O gedel vieira tinha 51 milhoes em eapecie, o paulo preto tinha 120 milhoes, mas para os anta so importa lacra cont… https://t.co/3gUJDWRl4P', 'is_against': 0, 'is_racism': 0}
 {'text': 'elas pintam juntas afff tudo', 'is_against': 0, 'is_racism': 0}
 {'text': '@ceIlbeats virar enfermeira e morar em rio preto', 'is_against': 0, 'is_racism': 0}
@@ -1472,8 +1474,8 @@
 {'text': 'RT @podcastceara: Quer saber o que o Ceará vem produzindo de podcast? Pois se aprochegue nessa thread fixa, tire a cera duzuvido e aperte o…', 'is_against': 0, 'is_racism': 0}
 {'text': 'Deus habita no corpo de rihanna', 'is_against': 0, 'is_racism': 0}
 {'text': 'Ah não', 'is_against': 0, 'is_racism': 0}
-{'text': 'RT @neggata_: "Se eu fosse preta não ia sofrer tanto" KAKAKAKAKAKAKAK porra mina, enche o cu de maconha pra ficar falando merda? https://t.…', 'is_against': 0, 'is_racism': 0}
-{'text': 'Esse é  aquele que chamou o Bolanos de "negão viado"?', 'is_against': 0, 'is_racism': 0}
+{'text': 'RT @neggata_: "Se eu fosse preta não ia sofrer tanto" KAKAKAKAKAKAKAK porra mina, enche o cu de maconha pra ficar falando merda? https://t.…', 'is_against': 1, 'is_racism': 1}
+{'text': 'Esse é  aquele que chamou o Bolanos de "negão viado"?', 'is_against': 1, 'is_racism': 1}
 {'text': 'RT @VVermelhoePreto: Eita que o negócio está ficando sério pro lado do Cruzeiro... Advogados presos pela Polícia Federal receberam mais de…', 'is_against': 0, 'is_racism': 0}
 {'text': 'Boa noite "teacher, tu tá com uma espinha horrível no nariz"', 'is_against': 0, 'is_racism': 0}
 {'text': '@AlisonVianaa Somos dois neguin \U0001f923', 'is_against': 0, 'is_racism': 0}
@@ -1638,7 +1640,6 @@
 {'text': 'RT @isagxrcia: muito fácil falar que sofre por ser branca na cena no rap tendo quase 800k de seguidores, cynthia luz, azzy, tudo c 1 milhão…', 'is_against': 0, 'is_racism': 0}
 {'text': 'eu amo quando ela dá esse sorrisinho, amo esse nariz perfeitinho, eu amo essa garota um tantão que nenhuma palavra… https://t.co/r3qaGKnS1H', 'is_against': 0, 'is_racism': 0}
 {'text': 'Remessa Nova Pronta:Kit Orelhas e Cauda Nyanko Preto e Pink\nR$23 tbm na cor interna beje https://t.co/GoUjDpRNeu', 'is_against': 0, 'is_racism': 0}
-{'text': 'isso não é nada perto do: se eu viesse preta, eu não ia sofrer tanto - no meio do rap', 'is_against': 0, 'is_racism': 0}
 {'text': 'eu sou tao indeciso que se eu tiver q escolher entre uma camiseta preta e uma camiseta preta eu n saberia qual escolher', 'is_against': 0, 'is_racism': 0}
 {'text': 'Meu portifolio simplesmente não vai ter o negócio dos gêmeos e eu to nem aí, talvez ele nem tenha o desenho das lâminas porque sem forças', 'is_against': 0, 'is_racism': 0}
 {'text': 'n vai ter eu recebendo amor e carinho do meu preto', 'is_against': 0, 'is_racism': 0}
@@ -1743,7 +1744,7 @@
 {'text': 'Bom mesmo é espancar ladrão né, tá na hora de fazer isso com a classe política que rouba o Brasil desde a criação d… https://t.co/OLTN519qsD', 'is_against': 0, 'is_racism': 0}
 {'text': 'RT @priscil4menndes: Tu sai arrumadinha não encontra um ser na rua, mas vai sair igual mendiga pra comprar um negócio ali na esquina, pooo…', 'is_against': 0, 'is_racism': 0}
 {'text': 'RT @thiago_biomed: 5 segundos da sua atenção:\nO monócito é a célula do sistema imune presente dentro do vaso sanguíneo, quando o negócio tá…', 'is_against': 0, 'is_racism': 0}
-{'text': '@filhododouglas @jxtvs7 @deusjan_ aposto que ela NUNCA ficou com um preto', 'is_against': 0, 'is_racism': 0}
+{'text': '@filhododouglas @jxtvs7 @deusjan_ aposto que ela NUNCA ficou com um preto', 'is_against': 1, 'is_racism': 1}
 {'text': 'É ISSO CARAI.', 'is_against': 0, 'is_racism': 0}
 {'text': 'lingua coçando nariz saindo agua', 'is_against': 0, 'is_racism': 0}
 {'text': 'Vamos continuar evoluindo nosso Brasil? Chega de politicagem, vamos trabalhar, então congresso, já sabe né? O negóc… https://t.co/R6OyxNmiDI', 'is_against': 0, 'is_racism': 0}
@@ -1772,7 +1773,7 @@
 {'text': 'RT @problematikj: Fazer algo pra agradar os outros: não importa o que vc faça, NUNCA SERÁ SUFICIENTE e ainda vai ficar triste por fazer o q…', 'is_against': 0, 'is_racism': 0}
 {'text': '@arianagranxe então vai com a preta e fica a coisinha mais linda do mundo, patrocinada, amo \U0001f929\U0001f929\U0001f929', 'is_against': 0, 'is_racism': 0}
 {'text': 'Decepcionante alguém seja branca ou preta vim da favela e falar essas baboseiras.', 'is_against': 0, 'is_racism': 0}
-{'text': '@vitorzeroum @eltonserra É racismo estrutural  escancarado mesmo, sempre olham para o Negro como sendo subalterno.', 'is_against': 0, 'is_racism': 0}
+{'text': '@vitorzeroum @eltonserra É racismo estrutural  escancarado mesmo, sempre olham para o Negro como sendo subalterno.', 'is_against': 1, 'is_racism': 1}
 {'text': 'Quando me chamam de "Meu Preto/Minha Preta"', 'is_against': 0, 'is_racism': 0}
 {'text': 'parei no “se eu vinhesse preta”', 'is_against': 0, 'is_racism': 0}
 {'text': 'Cadê seu gringo preto duda ? Kkkkkkkkkkkkk — Porra KKKKKKKKKK https://t.co/gKrkybYqDs', 'is_against': 0, 'is_racism': 0}
@@ -1801,7 +1802,7 @@
 {'text': '@senadorhumberto Quem já viu ladrão trabalhar ativamente 😂😂😂😂 https://t.co/9LKwBe7pn0', 'is_against': 0, 'is_racism': 0}
 {'text': 'hoje foi um dia que eu estava me achando bonita aí no fim da tarde blaw! uma espinha no nariz. Ô mizera', 'is_against': 0, 'is_racism': 0}
 {'text': 'vou comprar uma blusa preta de 20 pila ir em uma gráfica e mandar colocar uma estampa do travis scott e vender de 120', 'is_against': 0, 'is_racism': 0}
-{'text': 'se eu viesse preta eu n ia sofrer tanto😢😢😔😩😩😭😭😭😞😞', 'is_against': 0, 'is_racism': 0}
+{'text': 'se eu viesse preta eu n ia sofrer tanto😢😢😔😩😩😭😭😭😞😞', 'is_against': 0, 'is_racism': 1}
 {'text': 'As gurias hoje falando que eu tenho nariz de branco\n\nTÁ 😂😂😂😂😂', 'is_against': 0, 'is_racism': 0}
 {'text': '@_edsonbritojr @LuizJernimo3 @Andres_Otto_DIE @CarlosVidoto @BolsonaroSP Melhor doente que drogado adorador de ladrão .', 'is_against': 0, 'is_racism': 0}
 {'text': 'RT @homensdobrasil: em comemoração aos 13K um rodízio com 4 negões dotados \n\n@PatrickNegao1\n@xxx_men_pt\n@new_gaywanking \n@luccas___luccas…', 'is_against': 0, 'is_racism': 0}
@@ -1814,7 +1815,6 @@
 {'text': 'Não tem uma frase que me deixe mais estressado que\n"Neto imprime esse negócio pra mim"', 'is_against': 0, 'is_racism': 0}
 {'text': 'nossa block', 'is_against': 0, 'is_racism': 0}
 {'text': 'estou indo no shopping trocar um negócio, tava falando que só lá tem, se tiver acabado eu vou me matar', 'is_against': 0, 'is_racism': 0}
-{'text': 'RT @ReidoSul1: Esse é  aquele que chamou o Bolanos de "negão viado"? https://t.co/jOQ7SDwnVZ', 'is_against': 0, 'is_racism': 0}
 {'text': 'rinite atacadissima e aonde chego tem alguem fumando\n\nfalta eu arrancar o nariz fora', 'is_against': 0, 'is_racism': 0}
 {'text': 'RT @fafarioss: Asa de urubu, pata de camelo\nquem não me der oii vai cair\ntodo o cabelo🙈', 'is_against': 0, 'is_racism': 0}
 {'text': 'preto lindo desse 😜\U0001f970', 'is_against': 0, 'is_racism': 0}
