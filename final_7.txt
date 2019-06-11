@@ -1905,7 +1905,7 @@
 {'text': 'RT @bocajrlol: i ala o cara acha que racismo reverso existe kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk…', 'is_against': 0, 'is_racism': 0}
 {'text': 'Algumas manchetes até falaram sobre o último álbum dele, o 4:44, em que ele assume o que fez e mostra a própria alm… https://t.co/EQFszkOgBz', 'is_against': 0, 'is_racism': 0}
 {'text': 'ele é preto, disse que ia no show do ferrugem comigo e ama um funk\n\nresumindo, ele foi feito pra mim', 'is_against': 0, 'is_racism': 0}
-{'text': 'Por que? Porque a mídia escolhe apenas falar dos males que ocorrem com as pessoas negras. \n\nO preto só vira manchet… https://t.co/ZV6n1rSru2', 'is_against': 0, 'is_racism': 0}
+{'text': 'Por que? Porque a mídia escolhe apenas falar dos males que ocorrem com as pessoas negras. \n\nO preto só vira manchet… https://t.co/ZV6n1rSru2', 'is_against': 1, 'is_racism': 1}
 {'text': 'perfeito né? felizmente meu.', 'is_against': 0, 'is_racism': 0}
 {'text': 'RT @blinda013: Irmão mais preto♥️ https://t.co/cVoTMBDnbv', 'is_against': 0, 'is_racism': 0}
 {'text': 'RT @kasalmaya: ESTAR COM VARIOS COMEDORES É FANTASTICO POR ISSO, MEU NEGÃO FALHOU, AI VEIO O MACHO ALPHA E ME RASGOU GOSTOSO, HUMMMMM QUE D…', 'is_against': 0, 'is_racism': 0}
@@ -1945,10 +1945,10 @@
 {'text': 'RT @aguedard_: @aepidermedaalma Mas tu é trabalhadora, vai comprar outro logo pra esfregar na cara do ladrão', 'is_against': 0, 'is_racism': 0}
 {'text': 'Lula não aceita tornozeleira eletrônica: "Não sou ladrão nem pombo correio" https://t.co/L2MuTjKUiT via @YouTube', 'is_against': 0, 'is_racism': 0}
 {'text': 'RT @duudy_leal: que frio  vamo tacar fogo nos racista pra esquentar um pouco', 'is_against': 0, 'is_racism': 0}
-{'text': 'E PORRA PRETA É ESSA??', 'is_against': 0, 'is_racism': 0}
+{'text': 'E PORRA PRETA É ESSA??', 'is_against': 0, 'is_racism': 1}
 {'text': 'a violência contra mulher preta cresce enquanto a violência contra mulher branca diminui... \n\na conclusão é com vcs', 'is_against': 0, 'is_racism': 0}
 {'text': 'Como as pessoas conseguem viver usando sapatilha? Que negócio ruim do caralho', 'is_against': 0, 'is_racism': 0}
-{'text': '@elias_bella @DothJoseph vem macaca, te pagar esse drink 😂', 'is_against': 0, 'is_racism': 0}
+{'text': '@elias_bella @DothJoseph vem macaca, te pagar esse drink 😂', 'is_against': 0, 'is_racism': 1}
 {'text': 'Quero comprar essas peça pra moto logo, deixar minha preta zero bala \U0001f924', 'is_against': 0, 'is_racism': 0}
 {'text': 'a lembrança mais marcante da adolescência de muito negro e negra é sofrendo racismo na mão de uma mulher branca...… https://t.co/CFFTYfyWce', 'is_against': 0, 'is_racism': 0}
 {'text': 'RT @bielbxd: Eu quero é dinheiro no bolso negão, num fode', 'is_against': 0, 'is_racism': 0}
@@ -1957,7 +1957,7 @@
 {'text': '@evesoaressss Kkkkkkk passa no cartão preto', 'is_against': 0, 'is_racism': 0}
 {'text': '@detailsccabello É só 30 min de macaco pow', 'is_against': 0, 'is_racism': 0}
 {'text': 'RT @gvnnmwr: queria tanto q a gente mandasse nesse negócio de gostar de alguém', 'is_against': 0, 'is_racism': 0}
-{'text': 'Vc é uma preta linda ❤ — Obg rs https://t.co/tBB9YQYnRr', 'is_against': 0, 'is_racism': 0}
+{'text': 'Vc é uma preta linda ❤ — Obg rs https://t.co/tBB9YQYnRr', 'is_against': 0, 'is_racism': 1}
 {'text': 'Mauro Naves se ferrou por que foi repassar nome de advogado, esse negócio de se envolver com tretas de Neymar só fe… https://t.co/rW4YPrHukq', 'is_against': 0, 'is_racism': 0}
 {'text': 'Frio: a\nEu:', 'is_against': 0, 'is_racism': 0}
 {'text': '@flridakillos RAPARIGA TEU NARIZ EH PERFEITO?????????????????', 'is_against': 0, 'is_racism': 0}
@@ -2021,7 +2021,7 @@
 {'text': 'Às vezes eu olho pra minha cara e tomo um susto, tem um nariz no centro dela!', 'is_against': 0, 'is_racism': 0}
 {'text': 'há a todo momento uma reestruturação do racismo que se molda de acordo com as demandas da contemporaneidade', 'is_against': 0, 'is_racism': 0}
 {'text': 'usando blusa do meu irmão por motivos de: blusa linda e preta', 'is_against': 0, 'is_racism': 0}
-{'text': '"você gosta de um pretinho hein" \n\nquem não gosta vó??? preto é lindo', 'is_against': 0, 'is_racism': 0}
+{'text': '"você gosta de um pretinho hein" \n\nquem não gosta vó??? preto é lindo', 'is_against': 1, 'is_racism': 1}
 {'text': 'Coisa de adolescente esse negócio de ver um lugar diferente e já pensar em como seria transar lá\nImagina ficar aí p… https://t.co/Uj4HbjYXuc', 'is_against': 0, 'is_racism': 0}
 {'text': 'meu pai fez eu tomar um negócio que veio de chernobyl, que coisa mais ruimmmmm', 'is_against': 0, 'is_racism': 0}
 {'text': 'RT @_iamastroworld: “Deus me fez branca pra ser mais difícil” branco que não assume os seus privilégios é uma merda né. daqui a pouco ela v…', 'is_against': 0, 'is_racism': 0}
@@ -2039,7 +2039,7 @@
 {'text': 'O negócio é voltar a ser vagabundo', 'is_against': 0, 'is_racism': 0}
 {'text': 'RT @xuxanave: vamos ter que entregar o mundo nas mãos da rihanna pq só ela é capaz de resolver td https://t.co/zB2zE3Wqvs', 'is_against': 0, 'is_racism': 0}
 {'text': 'Posta mais foto de biquíni 👙 — O negócio é tirar as fotos né KKKKKK https://t.co/34n5BlTREX', 'is_against': 0, 'is_racism': 0}
-{'text': '@afrolaai É tão mais fácil "cancelar" ou linchar  um/uma preto/preta, né?\n\nBranco sendo racista pode. Incrível. \n\nP… https://t.co/VBEp9Au53h', 'is_against': 0, 'is_racism': 0}
+{'text': '@afrolaai É tão mais fácil "cancelar" ou linchar  um/uma preto/preta, né?\n\nBranco sendo racista pode. Incrível. \n\nP… https://t.co/VBEp9Au53h', 'is_against': 1, 'is_racism': 1}
 {'text': 'RT @estefanivieeira: MANOOO SE ESSA MULHER ESTIVER MENTINDO SOBRE ESSE NEGÓCIO DO NEYMAR, ELA VAI SE FUDER MUITOOO', 'is_against': 0, 'is_racism': 0}
 {'text': '@gleisi @tutameiatv Deixa de Conversar bosta, você e esse vagabundo, pilantra e ladrão!!!', 'is_against': 0, 'is_racism': 0}
 {'text': 'ela fala coisa doida demais', 'is_against': 0, 'is_racism': 0}
@@ -2215,7 +2215,7 @@
 {'text': 'nabrisa, vai toma no teu cu vai', 'is_against': 0, 'is_racism': 0}
 {'text': '@Crf_Raphaaa Brigado preta linda ❤😍', 'is_against': 0, 'is_racism': 0}
 {'text': 'Vem domingão', 'is_against': 0, 'is_racism': 0}
-{'text': 'esse negão zagueiro do Fluminense é horroroso 😡👎🏼', 'is_against': 0, 'is_racism': 0}
+{'text': 'esse negão zagueiro do Fluminense é horroroso 😡👎🏼', 'is_against': 0, 'is_racism': 1}
 {'text': 'RT @anaescarani: Frio: a\nEu:Rinite, Sinusite,asma,bronquite, garganta inflamada,nariz escorrendo, 70 mil antibióticos...', 'is_against': 0, 'is_racism': 0}
 {'text': 'gabriela me dx boba, de 7 perguntas 9 são sobre meu irmão...\ne tipo, isso porque ela diz que ta feliz com o novo na… https://t.co/1yhFl0bCDA', 'is_against': 0, 'is_racism': 0}
 {'text': '"a mas eu sou gay" \ntu é gay mas continua sendo uma pessoa branca, cê nunca vai entender o que uma gay/mulher preta passa.', 'is_against': 0, 'is_racism': 0}
@@ -2371,7 +2371,7 @@
 {'text': 'RT @t3ddyyyyy: 💼💼o que vcs estão vendo eh um homem de negócios💼💼 https://t.co/OzbYHspPYj', 'is_against': 0, 'is_racism': 0}
 {'text': 'eu sou bem pior do q vc ta vendo \npreto aq n tem dó 100% veneno', 'is_against': 0, 'is_racism': 0}
 {'text': 'RT @CRFNathalia_s2: Primeira impressão: "mano, tô apaixonada nessa preta, olha como ela é linda" \nOnde te conheci: dr. João\nConfesso que: s…', 'is_against': 0, 'is_racism': 0}
-{'text': '@luuquinhas20 porra mano, esse negão é horrível', 'is_against': 0, 'is_racism': 0}
+{'text': '@luuquinhas20 porra mano, esse negão é horrível', 'is_against': 0, 'is_racism': 1}
 {'text': 'Enche o cu de maconha pra ir pra internet falar merda', 'is_against': 0, 'is_racism': 0}
 {'text': 'gente eu tava lendo os comentários e fiquei pensando.... vcs estão tirando o cara pq ele quis pegar uma branca 😐😐😐😐… https://t.co/yFNo59pO1B', 'is_against': 0, 'is_racism': 0}
 {'text': 'RT @blinkxproud: eu amo quando ela dá esse sorrisinho, amo esse nariz perfeitinho, eu amo essa garota um tantão que nenhuma palavra é capaz…', 'is_against': 0, 'is_racism': 0}
@@ -2397,7 +2397,7 @@
 {'text': 'Negócio é q eu sou um cara teimoso mesmo e dono da razão', 'is_against': 0, 'is_racism': 0}
 {'text': 'RT @DjjhonatanOfc: A única a única conclusão que eu cheguei desse negócio do Neymar é que se ele fosse pobre ele não pegava ninguém, muito…', 'is_against': 0, 'is_racism': 0}
 {'text': 'pqp, eu amo esse vídeo com todas as minhas forças', 'is_against': 0, 'is_racism': 0}
-{'text': '@LorenaF57 acho q e kkkkkkkkkkkk tinha um outro morenin la tb, os dois tv me encarando😆', 'is_against': 0, 'is_racism': 0}
+{'text': '@LorenaF57 acho q e kkkkkkkkkkkk tinha um outro morenin la tb, os dois tv me encarando😆', 'is_against': 0, 'is_racism': 1}
 {'text': 'Tomando meu café quentinho, na minha cama quentinha com 1 meia azul e outra preta, é isso', 'is_against': 0, 'is_racism': 0}
 {'text': 'RT @Luubsabreu: O que eu vejo nesse vídeo é a falta de afeto por um corpo preto, ele não se importou em nenhum momento com a situação e nas…', 'is_against': 0, 'is_racism': 0}
 {'text': 'playboy passou com baseado na mão se fosse preto e pobre era pra detenção', 'is_against': 0, 'is_racism': 0}
