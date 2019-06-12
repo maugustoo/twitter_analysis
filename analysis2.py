@@ -13,6 +13,6 @@ for line in tweets_file:
         used_data['text'] = tweet['text']
         used_data['is_racism'] = 0
         used_data['is_against'] = 0
-        print(used_data)
+        print(json.loads(used_data))
     except:
         continue

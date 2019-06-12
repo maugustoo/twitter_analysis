@@ -1,30 +1,37 @@
 import json
+import re
 
 tweets_data_path = 'final_user.txt'
 
 tweets_data = []
 tweets_file = open(tweets_data_path, "r", encoding='utf8')
 
-a = {'text': 'RT @sugasayajins: jaden fez um álbum de rap sem soltar palavrão nem depreciar mulheres, tem uma empresa que estimula cuidado com meio ambie…', 'is_racism': 0, 'is_against': 0}
-#print(a)
-#print(a['text'])
+invalid_escape = re.compile(r'\\[0-7]{1,3}')  # up to 3 digits for byte values up to FF
 
+def replace_with_byte(match):
+    return chr(int(match.group(0)[1:], 8))
 
-for line in tweets_file:
-    line_str = json.dumps(line)
-    json_acceptable_string = line_str.replace("'", "\\\"")
-    json_acceptable_string = json_acceptable_string.replace("\\n", "")
-    print(json_acceptable_string)
+def repair(brokenjson):
+    return invalid_escape.sub(replace_with_byte, brokenjson)
 
-    line_json = json.loads(json_acceptable_string)
-    print(line_json)
-    break
+# for line in tweets_file:
+#     try:
+#         line_str = json.dumps(line)
+#         json_acceptable_string = line_str.replace("'", "\\\"")
+#
+#
+#         line_json = json.loads(repair(json_acceptable_string))
+#         print(line_json)
+#
+#     except:
+#         continue
+
+tweets_data_path2 = 'final_user_json.txt'
+tweets_file = open(tweets_data_path2, "r", encoding='utf8')
 
 for line in tweets_file:
     try:
-        json.dumps(line)
-        #print(line)
-        #print(line['text'])
+        tweet = json.loads(repair(line))
         if tweet['is_racism']:
             print (tweet)
     except:
