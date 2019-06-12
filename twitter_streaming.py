@@ -41,4 +41,4 @@ if __name__ == '__main__':
     #stream.filter(track=terms, languages=['pt'])
     stream.filter(follow=['219112689', '14907774', '35693211', '123358294',
                           '3990050255', '222529351', '2515357319', '54337535',
-                          '870678636277399552'], languages=['pt'])
+                          '870678636277399552'], languages=['pt'], track=terms)
