@@ -544,7 +544,7 @@
 {'text': 'RT @letrxs_: isso é pra mostrar que a pele preta não é a cor do crime. https://t.co/Arwez5mI6y', 'is_racism': 0, 'is_against': 0}
 {'text': 'RT @Peedroiv: E agora? Ter medo de bandido? Ou da nossa polícia? 😐💔 #EternoLeo #LeoNaoEraBandido https://t.co/tbh9TrZkgo', 'is_racism': 0, 'is_against': 0}
 {'text': '@srtamandadias não me escolhe então, se não vou te incentivar a comprar só roupa preta kkkkkk', 'is_racism': 0, 'is_against': 0}
-{'text': '“cabelo ruim” tbm entrou no assunto Q NOJO', 'is_racism': 0, 'is_against': 0}
+{'text': '“cabelo ruim” tbm entrou no assunto Q NOJO', 'is_racism': 1, 'is_against': 1}
 {'text': 'Vendo a série “olhos que condenam” no Netflix.\n\nQuase parei de ver a série varias vezes, só da angústia de pensar n… https://t.co/JR7lViyLLS', 'is_racism': 0, 'is_against': 0}
 {'text': 'Alma Moreno / @lovelinesalma https://t.co/GTb5lLXZst', 'is_racism': 0, 'is_against': 0}
 {'text': 'Governo de Dilma emprestou 33 bilhões para 5 aliados de esquerda. É a caixa preta do BNDES -... https://t.co/iokw9FAGKp', 'is_racism': 0, 'is_against': 0}
@@ -1083,7 +1083,7 @@
 {'text': 'RT @criticanac: Ao equiparar a suposta homofobia ao crime de racismo, o STF está "criando raças", e impondo uma mordaça aos que rejeitam a…', 'is_racism': 0, 'is_against': 0}
 {'text': 'RT @flahistoria: Credito as imagens do tweet: Jornal dos Sports do dia seguinte.\n\nRECOMENDAMOS: O @StefanoSalles também publicou uma matéri…', 'is_racism': 0, 'is_against': 0}
 {'text': '@PauloVitor9715 puts,nego podendo ta de ponto 30 jkkkkkkkkk', 'is_racism': 0, 'is_against': 0}
-{'text': '@brubs_pdp05 Esse cabelo ruim aqui, tem certeza ?kkkkk tô abandonando já', 'is_racism': 0, 'is_against': 0}
+{'text': '@brubs_pdp05 Esse cabelo ruim aqui, tem certeza ?kkkkk tô abandonando já', 'is_racism': 1, 'is_against': 0}
 {'text': '@andersonmjrrr Ah sim boa aproveita aí nego 👊🏻', 'is_racism': 0, 'is_against': 0}
 {'text': "Amei esse vídeo já assisti os story's dela um milhão de vezes kkkkkkkkkmm", 'is_racism': 0, 'is_against': 0}
 {'text': 'Eu e Jeferson não superamos o fato de ter perdido a nossa foto do bloco, ficou muito braba bandido 😭', 'is_racism': 0, 'is_against': 0}
@@ -1766,7 +1766,7 @@
 {'text': 'Fico cheio de odio quando to dando o papo reto e nego acha que é câo mané \U0001f92c\U0001f92c😡', 'is_racism': 0, 'is_against': 0}
 {'text': 'Pensa numa série que acaba com você e te desperta ainda mais para a revolta contra a injustiça e o racismo?… https://t.co/87OTXpAYh7', 'is_racism': 0, 'is_against': 0}
 {'text': 'E quem tá dando liberdade pra nego pegar nas minhas coisas? Odeio isso', 'is_racism': 0, 'is_against': 0}
-{'text': '@fumafazmal como teu cu preto fdp', 'is_racism': 0, 'is_against': 0}
+{'text': '@fumafazmal como teu cu preto fdp', 'is_racism': 1, 'is_against': 0}
 {'text': 'Mas meu preto sumiuuuu', 'is_racism': 0, 'is_against': 0}
 {'text': 'o clipe de two of us em preto e branco, o louis tocando piano e violão, ele cantando com a banda muito desenvolto e… https://t.co/We5SqAtBAL', 'is_racism': 0, 'is_against': 0}
 {'text': 'Meu preferido para a PGR é  o @deltanmd  peço a Deus q ele aceite e seja escolhido! Ele é o terror da ptezada!… https://t.co/zGvWez8k18', 'is_racism': 0, 'is_against': 0}
@@ -2988,7 +2988,7 @@
 {'text': 'Deixa eu ser seu escravo? Faço tudo que mandar e ainda você pode me pisar por ser homem — KKKKKKKKKKKKKKKKKK Q? https://t.co/lSgg0NMcDr', 'is_racism': 0, 'is_against': 0}
 {'text': 'Minha unha tá lindinha de preto 💅❣', 'is_racism': 0, 'is_against': 0}
 {'text': 'RT @George13RBrasil: @bibliavascaina sou botafoguense e concordo plenamente.\nenquanto que um tal time rubro negro que sempre esta de nariz…', 'is_racism': 0, 'is_against': 0}
-{'text': 'Parece um morcego esse negro desgraçado', 'is_racism': 0, 'is_against': 0}
+{'text': 'Parece um morcego esse negro desgraçado', 'is_racism': 1, 'is_against': 0}
 {'text': 'Só por que nós e quieto, nego pensa que nós e otário...vai ficar de cara kk', 'is_racism': 0, 'is_against': 0}
 {'text': 'Empoderamento feminino. 💪', 'is_racism': 0, 'is_against': 0}
 {'text': '@zeca_dirceu Fake é o teu Pai, que se diz "guerrilheiro", mas no primeiro estalo de bombinha de São João fugiu cova… https://t.co/9tYC0kGCvc', 'is_racism': 0, 'is_against': 0}
@@ -3288,7 +3288,7 @@
 {'text': 'Sou apaixonada demais por esse preto cr 💏❤️', 'is_racism': 0, 'is_against': 0}
 {'text': '@_ThallysonG Sem palavras p gente e p pessoa incrível que vc se tornou na minha vida. Eu te amo mil milhões e mil v… https://t.co/Z2KUlAOa0a', 'is_racism': 0, 'is_against': 0}
 {'text': 'Os cara bebê quer ficar de Papinho fala do de bandido eu bebo quero logo transa ficar suave esses cara e foda pprt 🤣🤣🤣🤣', 'is_racism': 0, 'is_against': 0}
-{'text': 'Pro cara q dança e tem o cabelo ruim como o meu, o negócio é largar o degradê se não fica com o cabelo amassado por causa do chapéu 😒', 'is_racism': 0, 'is_against': 0}
+{'text': 'Pro cara q dança e tem o cabelo ruim como o meu, o negócio é largar o degradê se não fica com o cabelo amassado por causa do chapéu 😒', 'is_racism': 1, 'is_against': 0}
 {'text': 'RT @shannonzinho: Aonde o Botafogo estiver, eu estarei com o meu coração\nPara exaltar o preto e branco e cantar com muita emoção\n\nSou Fogao…', 'is_racism': 0, 'is_against': 0}
 {'text': 'Eu queria MUITO um churrascão com 3 grandes momentos:\n\n- Exaltasamba\n- Chiclete com Banana\n- Calcinha Preta', 'is_racism': 0, 'is_against': 0}
 {'text': '@Edgard_Piccoli Só bandido', 'is_racism': 0, 'is_against': 0}
@@ -4171,7 +4171,7 @@
 {'text': 'Bota. Dá chute....as flores no cano enganam.  Contra o machismo, o racismo e toda discriminação. Contra armas. A fa… https://t.co/6VDpyWI4u9', 'is_racism': 0, 'is_against': 0}
 {'text': 'Ouro Preto tem tanto a aprender', 'is_racism': 0, 'is_against': 0}
 {'text': '@_lucasapolo Não ri dos bandido mal n kkkkkkkkjjjj', 'is_racism': 0, 'is_against': 0}
-{'text': '@negrooLindo16 Criolo feio da porra', 'is_racism': 0, 'is_against': 0}
+{'text': '@negrooLindo16 Criolo feio da porra', 'is_racism': 1, 'is_against': 0}
 {'text': 'RT @falajota31: olha o tanto de iPhone q eu vou voltar pra casa se vim me assaltar essa tropinha de loka https://t.co/gkMy9hFDfU', 'is_racism': 0, 'is_against': 0}
 {'text': 'RT @raullsantiago: Discutir uma outra política sobre drogas na favela, nem sempre é falar de drogas, ou não apenas. Mas sim, sobre como ind…', 'is_racism': 0, 'is_against': 0}
 {'text': 'Não pode nem andar as 4 da manhã na rua que acham que é ladrão', 'is_racism': 0, 'is_against': 0}
@@ -8170,7 +8170,7 @@
 {'text': 'MANO KKKKKKKMMMMMMMMMKJ A NÃO', 'is_racism': 0, 'is_against': 0}
 {'text': '@renairubi foi tudo culpa do café preto', 'is_racism': 0, 'is_against': 0}
 {'text': 'Eu falei que Jesus é rubro-negro!!! \n\nNa hora de xingar é Jorge hein, não vai xingar Jesus!!', 'is_racism': 0, 'is_against': 0}
-{'text': '@limaaa_lucas A tua preto desgraçado kkkk', 'is_racism': 0, 'is_against': 0}
+{'text': '@limaaa_lucas A tua preto desgraçado kkkk', 'is_racism': 1, 'is_against': 0}
 {'text': '@bbcbrasil Porque não é o Brasil em que professor é tratado como lixo e aluno como bandido.\nhttps://t.co/4WriedxFMG', 'is_racism': 0, 'is_against': 0}
 {'text': 'RT @sayspiderman: @maarianoNS @iamjoaobrandi @matheuzzferrer laudo medico: acredita em racismo reverso', 'is_racism': 0, 'is_against': 0}
 {'text': 'Se eu bato de frente, são 14 celulares pra escolher', 'is_racism': 0, 'is_against': 0}

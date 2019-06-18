@@ -977,7 +977,7 @@
 {'text': 'Coração tem que ser bandido se não vira refém', 'is_racism': 0, 'is_against': 0}
 {'text': 'aaaa, me amarro num branquinho, peguei um preto e nunca gostei kkkk', 'is_racism': 0, 'is_against': 0}
 {'text': 'chega uma hora que tu nem fala mais, pq parece que ta falando sozinha', 'is_racism': 0, 'is_against': 0}
-{'text': '@_Alek_22 a tu n vai fazer isso n macaco', 'is_racism': 0, 'is_against': 0}
+{'text': '@_Alek_22 a tu n vai fazer isso n macaco', 'is_racism': 1, 'is_against': 0}
 {'text': 'RT @menormumu: Quem vê a Escondidinho aonde tá agora, geral falando, querendo a próxima, nem sabem da correria q foi, eu e felp inventamos…', 'is_racism': 0, 'is_against': 0}
 {'text': 'Eu fico "perprecto" que esse tipo de gente exista. Ódio de vcs, fogo nos racista nessa porra, não fode! (Não gostou… https://t.co/zEX6jw22wO', 'is_racism': 0, 'is_against': 0}
 {'text': '@dianaaviz Só resta o vermelho básico e o preto gótico.', 'is_racism': 0, 'is_against': 0}
@@ -1677,7 +1677,7 @@
 {'text': 'Guilherme quer que eu corte o cabelo no ombro e weslley quer que eu pinte ele de preto, mas eu tenho tanto medo de mudanças', 'is_racism': 0, 'is_against': 0}
 {'text': 'preto e amarelo', 'is_racism': 0, 'is_against': 0}
 {'text': '@senadorhumberto Entendemos muito bem senador o que houve. Fica tranquilo que sabemos o real interesse pois voltar… https://t.co/raLpE8oGJN', 'is_racism': 0, 'is_against': 0}
-{'text': 'Poxa n aguento mais ter cabelo ruim \nJah fiz mil coisas nele então eu tentei mas n deu eh a vida', 'is_racism': 0, 'is_against': 0}
+{'text': 'Poxa n aguento mais ter cabelo ruim \nJah fiz mil coisas nele então eu tentei mas n deu eh a vida', 'is_racism': 1, 'is_against': 0}
 {'text': 'RT @RoqueteP: Quando é carne assada com farofa na escola nego come até sem respirar', 'is_racism': 0, 'is_against': 0}
 {'text': 'A letra dessa música tem 0 defeitos', 'is_racism': 0, 'is_against': 0}
 {'text': 'RT @pretotipoArs: @CRFandress4 Te amo muitão minha preta ♥️', 'is_racism': 0, 'is_against': 0}
@@ -3096,7 +3096,7 @@
 {'text': 'Prende esse bandido logo.', 'is_racism': 0, 'is_against': 0}
 {'text': '@carlosjordy Minha amiga. Preta opressora sem mimimi https://t.co/wN4YKYacZH', 'is_racism': 0, 'is_against': 0}
 {'text': 'RT @eterno_tk: Camisa preta é um vício eu vejo já quero comprar', 'is_racism': 0, 'is_against': 0}
-{'text': 'Aquele preto desgraçado : a\n\nEu :', 'is_racism': 0, 'is_against': 0}
+{'text': 'Aquele preto desgraçado : a\n\nEu :', 'is_racism': 1, 'is_against': 0}
 {'text': '@zeca_dirceu Tu nao tem vergonha??? O Queiroz eu não sei, mas o bandido do teu pai ta na jaula! Débil mental!!', 'is_racism': 0, 'is_against': 0}
 {'text': '@satanlegitchild Mano, nego pensa que ser do Dogola é peça rara', 'is_racism': 0, 'is_against': 0}
 {'text': 'negro drama\nentre o sucesso e a lama', 'is_racism': 0, 'is_against': 0}
@@ -3106,7 +3106,7 @@
 {'text': 'pessoa q votou no preto pfvr justificar', 'is_racism': 0, 'is_against': 0}
 {'text': '- Minha mãe quer me colocar no colégio ouro preto.', 'is_racism': 0, 'is_against': 0}
 {'text': 'meu sonho é que qualquer dia vocês gastem uma grana preta com fogos e o time de vcs perca pra ficarem tudim com cara de bunda', 'is_racism': 0, 'is_against': 0}
-{'text': '@jenifferbragion Cabelo ruim é assim', 'is_racism': 0, 'is_against': 0}
+{'text': '@jenifferbragion Cabelo ruim é assim', 'is_racism': 1, 'is_against': 0}
 {'text': 'RT @ImmortalAnjin: Não podem ter amor \nApenas são admiradas \nQuando se amam ,Se aproximam \nInfelizmente é um erro\n\nQuando tentam o beijo \nS…', 'is_racism': 0, 'is_against': 0}
 {'text': 'KKKKKKKKKKKKKL eae bandido atual, já caçou sua briga e chamou seu irmão pra te ajudar a não fazer nada?', 'is_racism': 0, 'is_against': 0}
 {'text': '@DotoraCamis Eu entendo ela, depois que taquei o moreno nos cabelos, nunca mais consegui voltar pro loiro. Mentira… https://t.co/lDXdb1w2j4', 'is_racism': 0, 'is_against': 0}
@@ -3211,7 +3211,7 @@
 {'text': 'ai blz essa nao eh a pior parte mano ele ia pedalando até moema pra ganhar uma miséria meu deus isso é trabalho esc… https://t.co/SmEd6EyEiJ', 'is_racism': 0, 'is_against': 0}
 {'text': '@pretah_290 Tô esperando KD vc preta deliciosa?', 'is_racism': 0, 'is_against': 0}
 {'text': '@neuroticgaga tem coisas do ARTPOP nego, o susto passou', 'is_racism': 0, 'is_against': 0}
-{'text': 'q raiva me responde seu macaco anao', 'is_racism': 0, 'is_against': 0}
+{'text': 'q raiva me responde seu macaco anao', 'is_racism': 1, 'is_against': 0}
 {'text': 'Mano, Twitter é maravilhoso pra quem quer sorrir kkkkkkkkk', 'is_racism': 0, 'is_against': 0}
 {'text': 'Nego tá pagando de fbi na minha vida, quero saber o porquê', 'is_racism': 0, 'is_against': 0}
 {'text': 'Só quer se envolver com os amigos que é bandido🎶\n#BailedosOliveiras5deJulho #BaileDosOliveiras5JulhoOpenBar', 'is_racism': 0, 'is_against': 0}
@@ -3260,7 +3260,7 @@
 {'text': 'RT @NubiaaSoaress: nego faz muito cú doce né, tnc', 'is_racism': 0, 'is_against': 0}
 {'text': 'a mamata acabou @ribasdiego10 choraaaaaaaa, abel é o crl', 'is_racism': 0, 'is_against': 0}
 {'text': 'um homem p pinta minhas unha do pe de preto', 'is_racism': 0, 'is_against': 0}
-{'text': 'Te acho lindo pena ser negro e serve só pra ficar namorar jamais — analisa bem o que vc escreveu e me fala QUEM tem… https://t.co/it1xgoZTZt', 'is_racism': 0, 'is_against': 0}
+{'text': 'Te acho lindo pena ser negro e serve só pra ficar namorar jamais — analisa bem o que vc escreveu e me fala QUEM tem… https://t.co/it1xgoZTZt', 'is_racism': 1, 'is_against': 0}
 {'text': 'Odeio gente mimada\nXx: O Chanhee não vai voltar com o cabelo preto\nEu: https://t.co/FbfTUFGTVo', 'is_racism': 0, 'is_against': 0}
 {'text': 'E tinha vários nego metendo o pau no vizeu já esses tempinho atras, sem nunca ter uma sequência de jogos', 'is_racism': 0, 'is_against': 0}
 {'text': 'mano na real se tu é um racista fdp quero q tu va se fode seu merda arrombado de merda', 'is_racism': 0, 'is_against': 0}
