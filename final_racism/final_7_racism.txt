@@ -1,0 +1,36 @@
+{'is_racism': 1, 'is_against': 1, 'text': 'RT @mariamachadowm: “Você é uma negra linda demais” gente, sério, vcs n precisam colocar sempre “ negra” “preta” antes de um elogio não, ac…'}
+{'is_racism': 1, 'is_against': 0, 'text': 'RT @mctayaa: Então se vc fosse preta vc sofreria menos dentro da cena né??? HAHAHA https://t.co/cSOaEjcJ7g'}
+{'is_racism': 1, 'is_against': 0, 'text': 'ela é parda\n\nnão preta'}
+{'is_racism': 1, 'is_against': 1, 'text': 'Mas o fato aqui é: vivemos de manchetes de pretos sendo presos, mortos, sendo acusados de abuso ou por tráfico... e… https://t.co/Y1eYTP4eoy'}
+{'is_racism': 1, 'is_against': 0, 'text': 'João é um macaco n vê uma kk'}
+{'is_racism': 1, 'is_against': 0, 'text': '@WudsonExecutivo @CruceroCabuloso @Cruzeiro Se você sabe fala logo porque a coisa tá preta.'}
+{'is_racism': 1, 'is_against': 1, 'text': 'RT @jzetaniston: quando é pra apagar o legado de um artista negro como o jayz a gay e a branca concordam com o termo (marido de beyoncé) ma…'}
+{'is_racism': 1, 'is_against': 1, 'text': 'ela falou \nSE EU VINHESSE PRETA NAO IA SOFRER TANTO\n\nela falou exatamente isso e eu não consigo aceitar'}
+{'is_racism': 1, 'is_against': 0, 'text': 'Nariz do gadinho da minha irmã é mt grande slc'}
+{'is_racism': 1, 'is_against': 1, 'text': 'RT @eltonserra: É difícil aceitar que um preto pode mora numa cobertura na Pituba. É duro acreditar que um preto pode frequentar um consult…'}
+{'is_racism': 1, 'is_against': 1, 'text': '“se eu viesse preta eu não ia sofrer tanto” as pessoas elas realmente ignoram q história né, ô Deus da uma força q tá phoda aq em baixo'}
+{'is_racism': 1, 'is_against': 1, 'text': 'RT @novaeskkj: sofreria menos se fosse preta? kkkkkkkk garota se toca pelo amor de deus, a mina tem mt mais visualizações do q algumas negr…'}
+{'is_racism': 1, 'is_against': 1, 'text': 'não era isso que você queria? um preto de pau grande pra usar de estereótipo. \nflow Kid Bengala, fudi toda essa gentinha do seu tipo'}
+{'is_racism': 1, 'is_against': 0, 'text': 'Desde menorzinho sempre te achei uma preta linda demais, moro pertinho de você mas sempre tive vergonha de falar… —… https://t.co/bFmS7iCoEs'}
+{'is_racism': 1, 'is_against': 1, 'text': 'RT @lilNandin_027: 5 dias de suspensão pros mlk(a) branco q beberam\nse fosse 2 neguin era transferência na hora'}
+{'is_racism': 1, 'is_against': 0, 'text': '@albinohenriques Cala a boca, preto, esse grupo é racista'}
+{'is_racism': 1, 'is_against': 0, 'text': '@JooVito12421687 Tá querendo ein beiço kkkkkk'}
+{'is_racism': 1, 'is_against': 0, 'text': 'Nah digas sim ao racismo💜❤️ https://t.co/w6Q3H1ozte'}
+{'is_racism': 1, 'is_against': 0, 'text': '@bandigata7 @athaissss__ De vdd cada um tem seu gosto , porém tem essa pessoas que usam isso de racismo como desculpa pra tudo 👌👌'}
+{'is_racism': 1, 'is_against': 1, 'text': 'RT @oneorasta: um branco reproduzindo cultura negra sempre ganhou mais reconhecimento ao longo da história e nunca teve a ver com mérito. s…'}
+{'is_racism': 1, 'is_against': 0, 'text': '@spfcvicky haja beiço'}
+{'is_racism': 1, 'is_against': 0, 'text': 'matheus de beiço na escola'}
+{'is_racism': 1, 'is_against': 1, 'text': '@se_abraall @PortalRapmais Ela disse q é mais fácil ser preto *no rap*'}
+{'is_racism': 1, 'is_against': 1, 'text': 'RT @vicentiza: Olhem os comentários, as pessoas achando lindo o apagamento de um preto BILIONÁRIO em nome do feminismo\n\notários e otárias h…'}
+{'is_racism': 1, 'is_against': 1, 'text': 'Vc sabe quanto é difícil um negro conseguir algum destaque na porra da sociedade racista ? Aí vem vc querer irnon…… https://t.co/IcnasV3dpo'}
+{'is_racism': 1, 'is_against': 0, 'text': 'É @AecioNeves o cerco está apertando para o seu lado. \nA coisa tá ficando preta pro seu lado. Não sou vidente, mas… https://t.co/MMgxTCd8BJ'}
+{'is_racism': 1, 'is_against': 1, 'text': '@filhododouglas @jxtvs7 @deusjan_ aposto que ela NUNCA ficou com um preto'}
+{'is_racism': 1, 'is_against': 1, 'text': '@vitorzeroum @eltonserra É racismo estrutural  escancarado mesmo, sempre olham para o Negro como sendo subalterno.'}
+{'is_racism': 1, 'is_against': 0, 'text': 'se eu viesse preta eu n ia sofrer tanto😢😢😔😩😩😭😭😭😞😞'}
+{'is_racism': 1, 'is_against': 1, 'text': 'Por que? Porque a mídia escolhe apenas falar dos males que ocorrem com as pessoas negras. \n\nO preto só vira manchet… https://t.co/ZV6n1rSru2'}
+{'is_racism': 1, 'is_against': 0, 'text': 'E PORRA PRETA É ESSA??'}
+{'is_racism': 1, 'is_against': 0, 'text': '@elias_bella @DothJoseph vem macaca, te pagar esse drink 😂'}
+{'is_racism': 1, 'is_against': 0, 'text': 'Vc é uma preta linda ❤ — Obg rs https://t.co/tBB9YQYnRr'}
+{'is_racism': 1, 'is_against': 0, 'text': 'esse negão zagueiro do Fluminense é horroroso 😡👎🏼'}
+{'is_racism': 1, 'is_against': 0, 'text': '@luuquinhas20 porra mano, esse negão é horrível'}
+{'is_racism': 1, 'is_against': 0, 'text': '@LorenaF57 acho q e kkkkkkkkkkkk tinha um outro morenin la tb, os dois tv me encarando😆'}

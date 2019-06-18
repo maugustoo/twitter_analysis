@@ -1,0 +1,24 @@
+{'is_racism': 1, 'text': 'cansada de ter o cabelo ruim meu deis do céu', 'is_against': 0}
+{'is_racism': 1, 'text': 'só queria saber onde está o macaco do meu mid laner velho, pqp', 'is_against': 0}
+{'is_racism': 1, 'text': 'A macaca da Pâmela não ajuda em nada, odeio esse negra', 'is_against': 0}
+{'is_racism': 1, 'text': '@__mayama_ Fui bem em todas as provas ai o macaco vei mete a pika nos aluno sem dó pra foder de jeito', 'is_against': 0}
+{'is_racism': 1, 'text': 'Não aguento me olhar no espelho pq TUDO minha família crítica \n“Tá com celulite” “cabelo ruim hein” “nossa isso é u… https://t.co/nHLwEevJOH', 'is_against': 1}
+{'is_racism': 1, 'text': 'dps eu mato um preto desse e ninguém sabe pq', 'is_against': 0}
+{'is_racism': 1, 'text': '@HdaWill é brincadeira seu macaco, eu não namoro kkkkkkk', 'is_against': 0}
+{'is_racism': 1, 'text': '@Bfrtrick Teu cu, macaco', 'is_against': 0}
+{'is_racism': 1, 'text': '@lehmedeirosss Quem vê assim tem cabelo ruim p ficar secando msm', 'is_against': 0}
+{'is_racism': 1, 'text': 'Seu dia vai chegar macaco — Sai do anonimato filha da puta, vai viver o mundo lá fora. https://t.co/CLIYVCYeSW', 'is_against': 0}
+{'is_racism': 1, 'text': 'jojo vc fede e mora no esgoto jojo — Vc q fede seu macaco feioso https://t.co/C8R3YUxHzb', 'is_against': 0}
+{'is_racism': 1, 'text': 'Acha divertido postar mixarias no recinto, macaco fudido? — Eu não faço parte da sua escória, nunca me envolvi com… https://t.co/83B0FVYRQi', 'is_against': 0}
+{'is_racism': 1, 'text': 'Agora vejo esse pia e lembro da Giovana falando que ele tem nariz de porco kkkkkkkkkkkkk', 'is_against': 0}
+{'is_racism': 1, 'text': 'Macaco fodase https://t.co/IUWEhovXN0', 'is_against': 0}
+{'is_racism': 1, 'text': 'cabelo de boneca — N sei se isso foi um elogio pq boneca tem cabelo ruim https://t.co/82VxcETlDu', 'is_against': 0}
+{'is_racism': 1, 'text': '@BiiaFalccao Macaca tua sorte que eu sair da escola kkkkkkkkkkkkkkkkkk', 'is_against': 0}
+{'is_racism': 1, 'text': 'Kkkkk vc e um viado preto,parece ate um diabo gay da africa kkk zoa mn,irmao te ama ta ?', 'is_against': 0}
+{'is_racism': 1, 'text': '@_Bergonzini volta pra senzala fdp', 'is_against': 0}
+{'is_racism': 1, 'text': 'Meu cabelo tá ficando crespo essa merda', 'is_against': 0}
+{'is_racism': 1, 'text': 'né nada guilherme é só n pentear ele seco crlh — tu acha q é facil ter cabelo ruim? ele nao alisa nem enrola pqp https://t.co/2Qzvsx8024', 'is_against': 0}
+{'is_racism': 1, 'text': 'Um uruguaio me chamou de macaco, denunciei o tweet e o que o Twitter fez? Agradeceu pela denúncia .... E nada mais… https://t.co/fSf9dfG7gw', 'is_against': 1}
+{'is_racism': 1, 'text': 'todo dia um macaco diferente acelerando moto na frente da minha casa, pq não corta giro até quebrar de uma vez?', 'is_against': 0}
+{'is_racism': 1, 'text': 'RT @_lvccx: Tinha que ser preto 👑✊🏾 https://t.co/i0iiqPUV9n', 'is_against': 0}
+{'is_racism': 1, 'text': '@jose_simao Esse macaco do pode ser retardado', 'is_against': 0}
