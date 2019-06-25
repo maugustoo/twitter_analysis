@@ -2156,7 +2156,7 @@
 {'text': '6 tomem cuidado com esse negóDi namorar.\nA última vez que fui inventar isso, tô solteiro hj e pagando parcela de al… https://t.co/S34X1QyWmg', 'is_racism': 0, 'is_against': 0}
 {'text': 'Professor me botou na marcação hj kkkkkkkkkkkkkkkkkkkkkk neguin passou mal', 'is_racism': 0, 'is_against': 0}
 {'text': '@Mirelacastreis @JornalOGlobo Lula corrupto,bandido, ladrão, canalha e comunista é um grande Santo e Salvador daque… https://t.co/30t8lJQcuR', 'is_racism': 0, 'is_against': 0}
-{'text': '@sharkssp E nois seu preto desgraçado', 'is_racism': 0, 'is_against': 0}
+{'text': '@sharkssp E nois seu preto desgraçado', 'is_racism': 1, 'is_against': 0}
 {'text': 'está um menino atrás de mim que deve ter trocado o banho pelo axe e eu estou a ficar com o nariz todo atrofiado', 'is_racism': 0, 'is_against': 0}
 {'text': 'tadinha', 'is_racism': 0, 'is_against': 0}
 {'text': '@saomeneguel pode deixa preto', 'is_racism': 0, 'is_against': 0}
@@ -9390,7 +9390,7 @@
 {'text': 'Preto pobre trabalhadores e estudantes desarmados é fácil pros 01-02-03. \n"grandes líderes"', 'is_racism': 0, 'is_against': 0}
 {'text': 'vocês realmente esperam um futuro com igualdade social, sem racismo ou homofobia?\n\nBasta olhar ao nosso redor, em n… https://t.co/QZobTQqWmj', 'is_racism': 0, 'is_against': 0}
 {'text': '@tiago_ribeiro54 @BarbaraSamira15 Seu nariz 😂', 'is_racism': 0, 'is_against': 0}
-{'text': '@Marcelo_remo01 brota preto fudido', 'is_racism': 0, 'is_against': 0}
+{'text': '@Marcelo_remo01 brota preto fudido', 'is_racism': 1, 'is_against': 0}
 {'text': 'pessoal levou a sério mesmo esse negócio de beber no dia dos namorados, passei pelo francês meio dia e tava LOTADO', 'is_racism': 0, 'is_against': 0}
 {'text': '@lauraabcarvalho É aquele negócio, 1% no Brasil é "classe média tradicional".', 'is_racism': 0, 'is_against': 0}
 {'text': '@majorolimpio Falou o maior ladrão da história ! Só a @folha higiênica pra publicar isso!', 'is_racism': 0, 'is_against': 0}
@@ -13692,7 +13692,7 @@
 {'text': 'RT @mds_chan: Dia dos namorados é o cacete!! O negócio aqui é "Dia Dos Cornos"...Parabéns,Skrillex 👍', 'is_racism': 0, 'is_against': 0}
 {'text': 'RT @bibidotrembala: @lucasnigg Tbm te amo negão', 'is_racism': 0, 'is_against': 0}
 {'text': 'me deem uma moral gente e feliz dia dos namorados', 'is_racism': 0, 'is_against': 0}
-{'text': '@kamysMB @Dibgode @hey_giusilva pagode é tri, a negraiada que tava enchendo o saco', 'is_racism': 0, 'is_against': 0}
+{'text': '@kamysMB @Dibgode @hey_giusilva pagode é tri, a negraiada que tava enchendo o saco', 'is_racism': 1, 'is_against': 0}
 {'text': 'RT @letsaguiar: Se você tivesse somente UMA CHANCE de sobrevivência contra um bandido, o que faria?\na) Chamaria o Batman\nb) Usaria uma cane…', 'is_racism': 0, 'is_against': 0}
 {'text': 'RT @_ldoc: só queria uma jaqueta de couro preta affffff', 'is_racism': 0, 'is_against': 0}
 {'text': '@aiiishaodara Kkkkkkk pode pá preta ... será bem vinda', 'is_racism': 0, 'is_against': 0}

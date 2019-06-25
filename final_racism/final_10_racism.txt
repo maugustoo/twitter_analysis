@@ -1,0 +1,3 @@
+{'text': '@sharkssp E nois seu preto desgraçado', 'is_racism': 1, 'is_against': 0}
+{'text': '@Marcelo_remo01 brota preto fudido', 'is_racism': 1, 'is_against': 0}
+{'text': '@kamysMB @Dibgode @hey_giusilva pagode é tri, a negraiada que tava enchendo o saco', 'is_racism': 1, 'is_against': 0}

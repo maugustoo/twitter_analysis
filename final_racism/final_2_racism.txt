@@ -1,0 +1,6 @@
+{'text': '@_Alek_22 a tu n vai fazer isso n macaco', 'is_racism': 1, 'is_against': 0}
+{'text': 'Poxa n aguento mais ter cabelo ruim \nJah fiz mil coisas nele então eu tentei mas n deu eh a vida', 'is_racism': 1, 'is_against': 0}
+{'text': 'Aquele preto desgraçado : a\n\nEu :', 'is_racism': 1, 'is_against': 0}
+{'text': '@jenifferbragion Cabelo ruim é assim', 'is_racism': 1, 'is_against': 0}
+{'text': 'q raiva me responde seu macaco anao', 'is_racism': 1, 'is_against': 0}
+{'text': 'Te acho lindo pena ser negro e serve só pra ficar namorar jamais — analisa bem o que vc escreveu e me fala QUEM tem… https://t.co/it1xgoZTZt', 'is_racism': 1, 'is_against': 0}
