@@ -53,7 +53,6 @@
 {'text': 'péssimo negócio coração,\ncomo é que você faz um negócio desses', 'is_racism': 0, 'is_against' 0}
 {'text': '@VenusIzy eu sei sobre o que você está se referindo, acompanho tudo desde o início inclusive. só não entendi o motivo desse contexto ser racismo, pode me explicar se tem algo concreto, ou pq é o achismo de vocês?', 'is_racism': 0, 'is_against' 0}
 {'text': 'O crime foi registrado na tarde desta segunda-feira (3), no Centro Político e Administrativo (CPA), em Cuiabá, e, segundo a Polícia Militar, o criminoso teria levado cerca de R$ 33 mil.\n\n#HiperNotícias #hnt https://t.co/iVNxWxlunD', 'is_racism': 0, 'is_against' 0}
-{'text': 'Essas minas aí falam que gosta de preto só pela internet pq na realidade só pega branco 😒', 'is_racism': 1, 'is_against' 1}
 {'text': '@EXOvoteBrasil @RadioDisneyBRA @weareoneEXO Boa noite @RadioDisneyBRA, queria muito ouvir \"Love Shot\" do @weareoneEXO na programação, obrigada #PediuTocouRD \n\nPreto', 'is_racism': 0, 'is_against' 0}
 {'text': 'Militante:  \"a não que branco tem que ajudar na luta contra o racismo SIM, tem que ouvir nosso lado SIM bla bla\"\n\nBranco consciente: \"pô tô estudando e vô me declarar anti racista pra ajudar os negros na luta contra o racismo\"\n\nMilitante: ala o biscoiteiro gnt kk cha co ta kk', 'is_racism': 0, 'is_against' 0}
 {'text': '@essediafoilouco Sem clubismo:\nSantos\nSão Paulo \nPalmeiras \nCorinthians\nGuarani \nPortuguesa \nSão Caetano \nSanto André \nPaulista\nQualquer clube que já ganhou título ou disputou final.\nPonte preta', 'is_racism': 0, 'is_against' 0}
@@ -147,7 +146,6 @@
 {'text': 'Caralho mano, filme é 20:20, Kezia tá saindo de casa ainda... Até a gnt comer, comprar os negócios... Combinamos 18:30, só matando essa garota', 'is_racism': 0, 'is_against' 0}
 {'text': 'o macaco é tio dele?', 'is_racism': 1, 'is_against' 0}
 {'text': 'mlk da minha sala pratica racismo e ta tudo numa boa Castello né', 'is_racism': 0, 'is_against' 0}
-{'text': 'Gente um preto gato no trem me olhando kkkkkkkkkkk', 'is_racism': 1, 'is_against' 0}
 {'text': 'Testemunha ocular.\n\nMira Amaral: \"Catroga e Mexia convenceram Governo de Passos Coelho a manter as rendas da EDP\" - Energia - Jornal de Negócios https://t.co/dMIExfn9CQ', 'is_racism': 0, 'is_against' 0}
 {'text': 'eu quando vejo o homem macaco que não tem alma e nem coração correndo atras de mim gritando igual louco querendo me pegar https://t.co/tCQNRlse7V', 'is_racism': 1, 'is_against' 0}
 {'text': 'Dizem que quando nós pensa muito num negócio só, isso atrai. Mentira pura, to pensando em sexo tem meses e nada acontece \U0001f926🏼\u200d♂️', 'is_racism': 0, 'is_against' 0}
@@ -358,7 +356,6 @@
 {'text': 'tô vivendo aquele negócio do meme do 3ao pra vida sendo QUE NEM NO 3º ANO EU TO pra ta com isso porra serio', 'is_racism': 0, 'is_against' 0}
 {'text': '@aluottolau porra de mandioca o negócio é MACAXEIRA\n\nNORDESTE CARAIO', 'is_racism': 0, 'is_against' 0}
 {'text': '@gguklesbian PUTA MERDA EU TENHO UM NEGÓCIO PRA TE FALAR NEGA', 'is_racism': 0, 'is_against' 0}
-{'text': '@91slmj @louiexplict me deixa em paz urubu', 'is_racism': 1, 'is_against' 0}
 {'text': '@geocaio O filme 12 anos de escravidão me despertou para a vida em relação a estrutura racista que a gente vive, já assisti 3 vezes, fico mal, mas ajudou.', 'is_racism': 0, 'is_against' 0}
 {'text': 'E o preto sempre foi melhor caminho', 'is_racism': 0, 'is_against' 0}
 {'text': 'Sabem aquela necessidade enorme de mudar de ares? Preciso desesperadamente de algo novo. Pessoas novas, estilos novos, costumes novos, sentimentos novos, preciso de sentir que as coisas não são preto e branco e que ainda há imenso p descobrir, que isto vale tudo mm a pena', 'is_racism': 0, 'is_against' 0}
@@ -499,7 +496,6 @@
 {'text': 'eu só pintei uma vez de preto, tentei pintar de azul e ficou horrivel ksks qual cor você gostou mais? \U0001f927 — o verde!! aliás quero pintar de novo. seu cabelo deve ser lindo. https://t.co/5idg9VDosD', 'is_racism': 0, 'is_against' 0}
 {'text': '@Mayara__Roberta vc viu ele falando o negócio da cueca?', 'is_racism': 0, 'is_against' 0}
 {'text': '@bmoliveiraa Hahahahaha quanto me das se for lá meter me á preto', 'is_racism': 0, 'is_against' 0}
-{'text': '@tiagoclc @CMelquiades1 @beruta E eu te xinguei onde, meu deus? Vai usar a desculpinha racista da mulher preta agressiva tb inventando que eu te xinguei? hahahahahhah', 'is_racism': 1, 'is_against' 0}
 {'text': 'O negócio agora é delas. Assista ao novo trailer de #RainhasDoCrimeoFilme, estrelando Melissa McCarthy, Tiffany Haddish, e Elisabeth Moss. Em Agosto somente nos cinemas. https://t.co/TqiyZeDr3X', 'is_racism': 0, 'is_against' 0}
 {'text': 'a homeopata me passou mais um remedinho 🙏 desde que eu comecei o tratamento não tive nem uma crise, acho que esse negócio funciona mesmo', 'is_racism': 0, 'is_against' 0}
 {'text': 'Sdds do meu preto ❤', 'is_racism': 0, 'is_against' 0}
@@ -643,12 +639,10 @@
 {'text': 'kkdkkkdkkkk e eu q to quase pintando meu cabelo de preto nesse exato momento', 'is_racism': 0, 'is_against' 0}
 {'text': 'meu deus achei que esse negócio do site pra arrumar um sugar daddy era pura fanfic, mas não, é verdade!!!! acabou de passar o anúncio aqui no youtube', 'is_racism': 0, 'is_against' 0}
 {'text': '@solitarymindd @CarlosBolsonaro Lula ladrão seu lugar é na prisão', 'is_racism': 0, 'is_against' 0}
-{'text': 'Não que eu goste de saci doente', 'is_racism': 1, 'is_against' 0}
 {'text': '@heliojunior_the @folha @folha_poder PRETA OPRESSORA A MANDO DE BRANCO RASCISTA HOMOFÓBICO MISÓGINO TENTA MANCHAR GLEISE E ROSÁRIO E MARIELLE FRANCO. ENTÃO PRETA OPRESSORA\n#MARIELLEVIVE\n#GLEISEHOFFMANHONRA\n#MARIAROSÁRIODIGNIDADE\n\n#camiladumasdamasiogeorgPretaOpressora\n#elanão é inteligente\n\nE vc meu velho vatománúcú', 'is_racism': 0, 'is_against' 0}
 {'text': 'Vem aqui e trás um negócio pra mim, vai lá e leva aquilo, compra isso.....e sem reclamar!!!', 'is_racism': 0, 'is_against' 0}
 {'text': '@Dgeric3 Seu ladrãozinho', 'is_racism': 0, 'is_against' 0}
 {'text': 'Esse negócio da TV A Crítica tá um samba do crioulo doido.', 'is_racism': 0, 'is_against' 0}
-{'text': 'Eu nao sou racista mas \n\nO cearense nitidamente é uma raça superior', 'is_racism': 1, 'is_against' 0}
 {'text': 'Que Wifi lixo desse morro neguin', 'is_racism': 0, 'is_against' 0}
 {'text': '@Quinha_14 @DanPimpao N acredito que ela n soube não, todo mundo soube e inclusive acho que aquele negócio da “idade do show” que ela falou foi muito do que já tinha rolado antes também.', 'is_racism': 0, 'is_against' 0}
 {'text': 'Hoje to sentindo tanta dor por conta do negócio q peguei da mancha no corpo que nem p faculdade fui', 'is_racism': 0, 'is_against' 0}
@@ -698,7 +692,6 @@
 {'text': '@radsveluv o menino é trainee a 8 meses ja as suas favs debutaram, tem tres anos de carreira nas costas e ainda parece que vai dar teto preto nelas', 'is_racism': 0, 'is_against' 0}
 {'text': '@senadorhumberto @LulaOficial Cara, vc NÃO cansa fe passar vergonha,  lula é o maior ladrão do Brasil, isso sim', 'is_racism': 0, 'is_against' 0}
 {'text': 'quem votou nele n vai deixar de apoiar pq ele lamentou a morte do cara que espancou a mulher grávida, pq ele eh machista, racista, falso cristão etc pois essas pessoas são iguais https://t.co/dWdiS2xoLv', 'is_racism': 0, 'is_against' 0}
-{'text': '@edulf_ Gay, preta, pobre e Vegana!!! 😱😱😱 só falta dizer que é de esquerda!!!', 'is_racism': 1, 'is_against' 0}
 {'text': 'Limpei meu quarto hoje achei cabelo vermelho, preto grande pequeno kkkkkk', 'is_racism': 0, 'is_against' 0}
 {'text': '@Leoni_a_jato Mc Reaça: Homem de bem traiu mulher, a amante ficou grávida e foi ESPANCADA até ficar a beira da morte! MC não conseguiu concluir o \"aborto\", cometeu suicídio. E é homenageado pelo presidente que não deu uma palavra quando o \'\'preto\'\' levou 80 tiros do exército.', 'is_racism': 0, 'is_against' 0}
 {'text': '@wg_1898 Me pergunto pra que postar esses maluquetes falando do ladrão presidiário????', 'is_racism': 0, 'is_against' 0}
@@ -1030,7 +1023,6 @@
 {'text': 'A maior decepção nas contas do tt de kpop stan é quando uma MULHER se dá o trabalho de fazer tuíte pra desmerecer conquistas de outra MULHER para babar ovo de macho, me dá um negócio, muito vontade de esfregar a cara no asfalto', 'is_racism': 0, 'is_against' 0}
 {'text': 'hm parece que o negócio é nunca dizer nunca https://t.co/0OfCZdc4hg', 'is_racism': 0, 'is_against' 0}
 {'text': 'sab enviou os textos dela pro negócio que a nalu vai fazer iti meu orgulho', 'is_racism': 0, 'is_against' 0}
-{'text': 'preto prestígio: preto por fora, mas branco por dentro', 'is_racism': 1, 'is_against' 0}
 {'text': '@rroba_mah @SigaPlayPlus E um urubu kkkkk', 'is_racism': 0, 'is_against' 0}
 {'text': '@geisiellyyy o vácuo perdeu pro químico/cueca preta', 'is_racism': 0, 'is_against' 0}
 {'text': 'Mano deu um negócio no meu dedo, tá doendo demais', 'is_racism': 0, 'is_against' 0}
@@ -1120,7 +1112,6 @@
 {'text': 'mano já pensou ela tá mostrando o negócio no celular pra da e aparece uma notificado de mensagem do whats com o nome “jen” https://t.co/CzLQ85DRdh', 'is_racism': 0, 'is_against' 0}
 {'text': 'Aí que negão MDS 😍', 'is_racism': 0, 'is_against' 0}
 {'text': 'ei bora se pegar ae para eu testar um negócio rapidão', 'is_racism': 0, 'is_against' 0}
-{'text': '@Atabreno @BoladaoLenin Breno, entenda: RACISMO é RACISMO = raça branca, raça negra, raça amarela (orientais), índios, pardos, mamelucos= RAÇA HUMANA.\nPreconceito = pré  conceito. O ato de formar um pensamento antes  de conhecer. \nEU SOU BRASILEIRA, VC TAMBÉM É. \nSugiro que estude história do Brasil.', 'is_racism': 1, 'is_against' 0}
 {'text': '@colevascon Kkkkkkkkkkkkkkkkkk o sonho da sua @ é um negócio desse', 'is_racism': 0, 'is_against' 0}
 {'text': 'minha visão sobre spiderman nunca mais será a mesma depois daquele negócio de do peter ser trans', 'is_racism': 0, 'is_against' 0}
 {'text': 'Tá na cara que esse negócio do Neymar é maior furada, até parece que quem sofre estupro lá em Paris vai esperar 15 dias pra abrir o B.O aqui no Brasil, ela queria atenção, só não vê quem não quer \U0001f926🏻\u200d♀️', 'is_racism': 0, 'is_against' 0}
@@ -1221,44 +1212,27 @@
 {'text': 'Aquele preto desgraçado : a\n\nEu :', 'is_racism': 1, 'is_against': 0}
 {'text': '@jenifferbragion Cabelo ruim é assim', 'is_racism': 1, 'is_against': 0}
 {'text': 'q raiva me responde seu macaco anao', 'is_racism': 1, 'is_against': 0}
-{'text': 'Te acho lindo pena ser negro e serve só pra ficar namorar jamais — analisa bem o que vc escreveu e me fala QUEM tem… https://t.co/it1xgoZTZt', 'is_racism': 1, 'is_against': 0}
-{'text': '“cabelo ruim” tbm entrou no assunto Q NOJO', 'is_racism': 1, 'is_against': 1}
+{'text': 'Te acho lindo pena ser negro e serve só pra ficar namorar jamais', 'is_racism': 1, 'is_against': 0}
 {'text': '@brubs_pdp05 Esse cabelo ruim aqui, tem certeza ?kkkkk tô abandonando já', 'is_racism': 1, 'is_against': 0}
 {'text': '@fumafazmal como teu cu preto fdp', 'is_racism': 1, 'is_against': 0}
 {'text': 'Parece um morcego esse negro desgraçado', 'is_racism': 1, 'is_against': 0}
 {'text': 'Pro cara q dança e tem o cabelo ruim como o meu, o negócio é largar o degradê se não fica com o cabelo amassado por causa do chapéu 😒', 'is_racism': 1, 'is_against': 0}
 {'text': '@negrooLindo16 Criolo feio da porra', 'is_racism': 1, 'is_against': 0}
 {'text': '@limaaa_lucas A tua preto desgraçado kkkk', 'is_racism': 1, 'is_against': 0}
-{'is_racism': 1, 'is_against': 1, 'text': 'RT @mariamachadowm: “Você é uma negra linda demais” gente, sério, vcs n precisam colocar sempre “ negra” “preta” antes de um elogio não, ac…'}
-{'is_racism': 1, 'is_against': 0, 'text': 'RT @mctayaa: Então se vc fosse preta vc sofreria menos dentro da cena né??? HAHAHA https://t.co/cSOaEjcJ7g'}
+{'is_racism': 1, 'is_against': 0, 'text': 'RT @mariamachadowm: Você é uma negra linda demais'}
 {'is_racism': 1, 'is_against': 0, 'text': 'ela é parda\n\nnão preta'}
-{'is_racism': 1, 'is_against': 1, 'text': 'Mas o fato aqui é: vivemos de manchetes de pretos sendo presos, mortos, sendo acusados de abuso ou por tráfico... e… https://t.co/Y1eYTP4eoy'}
 {'is_racism': 1, 'is_against': 0, 'text': 'João é um macaco n vê uma kk'}
 {'is_racism': 1, 'is_against': 0, 'text': '@WudsonExecutivo @CruceroCabuloso @Cruzeiro Se você sabe fala logo porque a coisa tá preta.'}
-{'is_racism': 1, 'is_against': 1, 'text': 'RT @jzetaniston: quando é pra apagar o legado de um artista negro como o jayz a gay e a branca concordam com o termo (marido de beyoncé) ma…'}
-{'is_racism': 1, 'is_against': 1, 'text': 'ela falou \nSE EU VINHESSE PRETA NAO IA SOFRER TANTO\n\nela falou exatamente isso e eu não consigo aceitar'}
 {'is_racism': 1, 'is_against': 0, 'text': 'Nariz do gadinho da minha irmã é mt grande slc'}
-{'is_racism': 1, 'is_against': 1, 'text': 'RT @eltonserra: É difícil aceitar que um preto pode mora numa cobertura na Pituba. É duro acreditar que um preto pode frequentar um consult…'}
-{'is_racism': 1, 'is_against': 1, 'text': '“se eu viesse preta eu não ia sofrer tanto” as pessoas elas realmente ignoram q história né, ô Deus da uma força q tá phoda aq em baixo'}
-{'is_racism': 1, 'is_against': 1, 'text': 'RT @novaeskkj: sofreria menos se fosse preta? kkkkkkkk garota se toca pelo amor de deus, a mina tem mt mais visualizações do q algumas negr…'}
-{'is_racism': 1, 'is_against': 1, 'text': 'não era isso que você queria? um preto de pau grande pra usar de estereótipo. \nflow Kid Bengala, fudi toda essa gentinha do seu tipo'}
 {'is_racism': 1, 'is_against': 0, 'text': 'Desde menorzinho sempre te achei uma preta linda demais, moro pertinho de você mas sempre tive vergonha de falar… —… https://t.co/bFmS7iCoEs'}
-{'is_racism': 1, 'is_against': 1, 'text': 'RT @lilNandin_027: 5 dias de suspensão pros mlk(a) branco q beberam\nse fosse 2 neguin era transferência na hora'}
 {'is_racism': 1, 'is_against': 0, 'text': '@albinohenriques Cala a boca, preto, esse grupo é racista'}
 {'is_racism': 1, 'is_against': 0, 'text': '@JooVito12421687 Tá querendo ein beiço kkkkkk'}
 {'is_racism': 1, 'is_against': 0, 'text': 'Nah digas sim ao racismo💜❤️ https://t.co/w6Q3H1ozte'}
 {'is_racism': 1, 'is_against': 0, 'text': '@bandigata7 @athaissss__ De vdd cada um tem seu gosto , porém tem essa pessoas que usam isso de racismo como desculpa pra tudo 👌👌'}
-{'is_racism': 1, 'is_against': 1, 'text': 'RT @oneorasta: um branco reproduzindo cultura negra sempre ganhou mais reconhecimento ao longo da história e nunca teve a ver com mérito. s…'}
 {'is_racism': 1, 'is_against': 0, 'text': '@spfcvicky haja beiço'}
 {'is_racism': 1, 'is_against': 0, 'text': 'matheus de beiço na escola'}
-{'is_racism': 1, 'is_against': 1, 'text': '@se_abraall @PortalRapmais Ela disse q é mais fácil ser preto *no rap*'}
-{'is_racism': 1, 'is_against': 1, 'text': 'RT @vicentiza: Olhem os comentários, as pessoas achando lindo o apagamento de um preto BILIONÁRIO em nome do feminismo\n\notários e otárias h…'}
-{'is_racism': 1, 'is_against': 1, 'text': 'Vc sabe quanto é difícil um negro conseguir algum destaque na porra da sociedade racista ? Aí vem vc querer irnon…… https://t.co/IcnasV3dpo'}
 {'is_racism': 1, 'is_against': 0, 'text': 'É @AecioNeves o cerco está apertando para o seu lado. \nA coisa tá ficando preta pro seu lado. Não sou vidente, mas… https://t.co/MMgxTCd8BJ'}
-{'is_racism': 1, 'is_against': 1, 'text': '@filhododouglas @jxtvs7 @deusjan_ aposto que ela NUNCA ficou com um preto'}
-{'is_racism': 1, 'is_against': 1, 'text': '@vitorzeroum @eltonserra É racismo estrutural  escancarado mesmo, sempre olham para o Negro como sendo subalterno.'}
-{'is_racism': 1, 'is_against': 0, 'text': 'se eu viesse preta eu n ia sofrer tanto😢😢😔😩😩😭😭😭😞😞'}
-{'is_racism': 1, 'is_against': 1, 'text': 'Por que? Porque a mídia escolhe apenas falar dos males que ocorrem com as pessoas negras. \n\nO preto só vira manchet… https://t.co/ZV6n1rSru2'}
+{'is_racism': 1, 'is_against': 0, 'text': 'Quen negro subalterno.'}
 {'is_racism': 1, 'is_against': 0, 'text': 'E PORRA PRETA É ESSA??'}
 {'is_racism': 1, 'is_against': 0, 'text': '@elias_bella @DothJoseph vem macaca, te pagar esse drink 😂'}
 {'is_racism': 1, 'is_against': 0, 'text': 'Vc é uma preta linda ❤ — Obg rs https://t.co/tBB9YQYnRr'}
@@ -1274,59 +1248,31 @@
 {'text': 'Eles não vão denegrir a imagem de Moro!!', 'is_racism': 1, 'is_against': 0}
 {'text': 'RT @LenoirSilveira: @deltanmd A sociedade também tem ciência de que as tentativas de denegrir a  Lava Jato é engendrada e difundida pelos c…', 'is_racism': 1, 'is_against': 0}
 {'text': 'Comunista desgraçados tentando denegrir 2 homens honrados. \nhttps://t.co/Q1NUbFi7mw', 'is_racism': 1, 'is_against': 0}
-{'text': 'Infelizmente existem uns idiotas que se dizem palmeirenses, mas questões políticas querem denegrir a imagem de um í… https://t.co/gElZMtTVCe', 'is_racism': 1, 'is_against': 0}
-{'text': 'RT @JooBast96804625: Eles não vão denegrir a imagem de Moro!! https://t.co/m5kUPvvK4I', 'is_racism': 1, 'is_against': 0}
 {'text': 'fodase to aqui pra denegrir minha imagem', 'is_racism': 1, 'is_against': 0}
-{'text': 'Te vi no arraiá com um menino moreno do cabelo liso preto e uma morena do cabelo cacheado enorme,,,,,, Me apresen…… https://t.co/u9wiH0MCnG', 'is_racism': 1, 'is_against': 0}
 {'text': 'Esta querendo fazer isto para tentarem denegrir a imagem de pessoas honestas....não será porque querem soltar o cri… https://t.co/oK0ojwfocs', 'is_racism': 1, 'is_against': 0}
-{'text': 'Eu não sou MORENA,sou PRETA crlhoooooo!', 'is_racism': 1, 'is_against': 1}
-{'text': '@Francischini_ Desonestos são sempre assim, procuram algo para denegrir a imagem de alguém que é honesto...Moro e D… https://t.co/gCFmlwCQhx', 'is_racism': 1, 'is_against': 0}
 {'text': 'A verdade virá! Esses políticos da esquerda q estão orquestrados para denegrir Moro e Soltar o ladrão , vão passar… https://t.co/BSdds3RXL7', 'is_racism': 1, 'is_against': 0}
-{'text': 'Isso é morena // isso aq é Branca do cabelo preto. https://t.co/sw7FnPZopd', 'is_racism': 1, 'is_against': 0}
-{'text': '@alefrotabrasil Eu não posso concordar quando acho que vazamentos são pra denegrir a ópera Lava Jato pra ajudar os corruptos', 'is_racism': 1, 'is_against': 0}
-{'text': 'RT @ttmionzinho: Querer denegrir uma operação que já recuperou mais de 11 bilhões de reais é patético. A esquerda continua suas ações orque…', 'is_racism': 1, 'is_against': 0}
 {'text': 'Racismo oq fia ta feio pa caralho', 'is_racism': 1, 'is_against': 0}
 {'text': 'RT @cagueiproPT: #EuApoioaLavaJato enquanto eles tentam denegrir a imagem de Sérgio Moro com 70 mil citações no Twitter, nós rebatemos com…', 'is_racism': 1, 'is_against': 0}
 {'text': 'RT @BolsonaroSP: Ano passado fiz fala na sessão sobre Al Quads que visa denegrir Israel, essa mesma sessão que agora foi cancelada. Alguns…', 'is_racism': 1, 'is_against': 0}
 {'text': '@Pecaos @Niggarcia1 é negraiada, ppp', 'is_racism': 1, 'is_against': 0}
 {'text': '@amelia_souto @OGloboPolitica cadeia para hackers criminosos! e quem as usa para denegrir a imagem doa que combatem a corrupcao!!', 'is_racism': 1, 'is_against': 0}
-{'text': 'Quando a #RedeGlobo e as demais mídias corruptas se juntam ao #STF e ao #PT para denegrir alguém, certo que esta pessoa é inocente!', 'is_racism': 1, 'is_against': 0}
-{'text': 'RT @BolsonaroSP: 🇮🇱 Somos contra a sessão solene do Al Quads, que serve para denegrir Israel e incentivar a queima das bandeiras dos EUA  e…', 'is_racism': 1, 'is_against': 0}
-{'text': '@leandroruschel Quando a #RedeGlobo e as demais mídias corruptas se juntam ao #STF e ao #PT para denegrir alguém, c… https://t.co/nNgs4hmQMC', 'is_racism': 1, 'is_against': 0}
-{'text': '@leandroruschel Quando a #RedeGlobo e as demais mídias corruptas se juntam ao #STF e ao #PT para denegrir alguém, c… https://t.co/f4fN4NpdDw', 'is_racism': 1, 'is_against': 0}
-{'text': '@RenovaMidia Quando a #RedeGlobo e as demais mídias corruptas se juntam ao #STF e ao #PT para denegrir alguém, cert… https://t.co/Pjghdwd3Ui', 'is_racism': 1, 'is_against': 0}
 {'text': '@brasil247 @requiaopmdb Wuem é essa fraquejada?  Ha ja sei é a escravoa do ladrão lula #lulavaitomanocu', 'is_racism': 1, 'is_against': 0}
 {'text': 'RT @lushaol: Cabelo ruim estragando a ft, ja n basta o rosto https://t.co/RVDm0XlKwB', 'is_racism': 1, 'is_against': 0}
-{'text': '@LenoirSilveira @deltanmd O simples uso da palavra denegrir já  lhe desqualifica até  como  alfabetizado.', 'is_racism': 1, 'is_against': 1}
-{'text': 'RT @accarvalho128: Sérgio Moro é o nosso orgulho!!!! Nada do que dizem para tentar denegrir sua imagem, mudará o que pensamos e sentimentos…', 'is_racism': 1, 'is_against': 0}
 {'text': '@Gabruxona papi tomou do nada :( saiba criticar a plataforma, sem denegrir o trabalho alheio. #teampinto', 'is_racism': 1, 'is_against': 0}
 {'text': 'Eu n apoio denegrir a imagem do cara nem nada, sou super contra divulgação desse tipo de coisa e falo sem querer di… https://t.co/g2PrjT9BIQ', 'is_racism': 1, 'is_against': 0}
-{'text': '@GenPauloChagas E o pior é que irão alterar tudo, fazerem cortes, emendarem textos, etc., para denegrir as imagens… https://t.co/VgWUxaMLkN', 'is_racism': 1, 'is_against': 0}
-{'text': '@mariadorosario Não deu certo a jogada de novo, tentaram mata o presidente não deu certo, tentaram denegrir moro da… https://t.co/biKBkEAyyo', 'is_racism': 1, 'is_against': 0}
-{'text': 'Nós apoiamos a lava jato, nada do que essa facção criminosa da esquerda faça vai denegrir o trabalho de combate a c… https://t.co/ZbiRW60BT8', 'is_racism': 1, 'is_against': 0}
-{'text': '@marceloramosam @Ary_AntiPT Hacker é crime. Divulgar produto de roubo para denegrir imagem de autoridade pública não é crime?', 'is_racism': 1, 'is_against': 0}
-{'text': '@marceloramosam @Ary_AntiPT Hackear é crime. Divulgar produto de roubo para denegrir imagem de autoridade pública não é crime?', 'is_racism': 1, 'is_against': 0}
 {'text': '@RenovaMidia Devem ter ajudado no vazamento . São capazes de tudo para denegrir qq pessoa foz Governo Bolsonaro ! Q… https://t.co/dstfIppPIC', 'is_racism': 1, 'is_against': 0}
 {'text': '@luscas Isaura vai pra senzala.', 'is_racism': 1, 'is_against': 0}
 {'text': 'RT @NanciPerri: @RenovaMidia Devem ter ajudado no vazamento . São capazes de tudo para denegrir qq pessoa foz Governo Bolsonaro ! Querem re…', 'is_racism': 1, 'is_against': 0}
 {'text': 'ei dá para defender o Fav de vocês sem precisa denegrir o fav do outro dá pra se formar argumentos sem precisar den… https://t.co/GLFC5n4EMT', 'is_racism': 1, 'is_against': 0}
-{'text': 'RT @andreaalbertim: Esse é o verdadeiro tiro no pé. Tentaram denegrir a imagem de vocês e o que descobrimos é um engajamento na luta contra…', 'is_racism': 1, 'is_against': 0}
-{'text': '@deltanmd As Pessoas que são Erradas, sempre vão querer de forma mas baixa!! denegrir a imagem das outras que fizer… https://t.co/UGGoCWv19p', 'is_racism': 1, 'is_against': 0}
-{'text': 'RT @Biduxa: Estejam em pé de guerra contra esses criminosos, será jogada muita sujeira para denegrir Moro e a lavajato, mas precisamos nos…', 'is_racism': 1, 'is_against': 0}
 {'text': '@RBrandao5 @scamarsn Realmente ele não é PRETO 🤔\n\nÉ um SER HUMANO com o FENÓTIPO AFRICANO 🤔\n\nJá você é um ANIMAL qu… https://t.co/ScVr47lA5x', 'is_racism': 1, 'is_against': 0}
 {'text': 'Assim que se faz! Quem não deve não teme explicar a verdade. Tentativa frustrada da esquerda denegrir a nossa justi… https://t.co/aHBxjVLdkz', 'is_racism': 1, 'is_against': 0}
 {'text': 'vo denegrir a imagem da escola 😎', 'is_racism': 1, 'is_against': 0}
-{'text': 'não pense que só porque não estamos juntos eu vou denegrir sua imagem, se me perguntarem eu direi assim: ela foi o grande amor da minha vida', 'is_racism': 1, 'is_against': 0}
 {'text': 'Moreno preto pardo ah vai tomar no seu cu filho da puta do caralho', 'is_racism': 1, 'is_against': 0}
 {'text': '@nathanarrais14 Amor para de me denegrir kkkkkkkk', 'is_racism': 1, 'is_against': 0}
 {'text': 'mas que caralho de cabelo ruim e feiooooooo', 'is_racism': 1, 'is_against': 0}
-{'text': 'Que triste ver torcida criar tanto coisas desnecessárias pra denegrir a imagem dos outros Poh ao invés de tuitar ta… https://t.co/XQwp6DRLxp', 'is_racism': 1, 'is_against': 0}
-{'text': 'Oooh povinho ridiculo que fica criando perfil fake pra xingar ou denegrir a imagem dos outros, a noção passa longe,… https://t.co/Afrv7GM4XA', 'is_racism': 1, 'is_against': 0}
-{'text': 'PAREM de tratar negros/as com cabelo crespo como pessoas feias, bagunçadas, desarrumadas e esquisitas', 'is_racism': 1, 'is_against': 1}
 {'text': '@Spartak72928314 @samiabomfim e aí?! continua tentando denegrir. imagem no nosso super herói??\nahahaha não vai conseguir nada sua obesa!!', 'is_racism': 1, 'is_against': 0}
 {'text': 'Juiz acusa F. C. Porto de só querer denegrir o Benfica https://t.co/wBJOfviHHD', 'is_racism': 1, 'is_against': 0}
 {'text': 'tira esse beiçudo da cabeça e fica comiguu, te faso mais feliz ;) — FAÇO, PFFFFFFF\ndeixa aquele beiço lindo viver a… https://t.co/DBJ05MdZbZ', 'is_racism': 1, 'is_against': 0}
-{'text': 'Mas fé, um dia eu vou viver num Brasil onde me chamem de “senhor”, igual fazem com os brancos - e não de “escurinho/negão/moreninho/macaco”', 'is_racism': 1, 'is_against': 1}
 {'text': 'eu só sei denegrir minha imagem nessa rede social será que alguém me pegaria depois de ler meus tweets?', 'is_racism': 1, 'is_against': 0}
 {'text': 'Primeiro erro teve a intençao de denegrir uma mulher\nSegundo erro é homem \nTerceiro vaca nem tem chifre ent provave… https://t.co/me5xiQAiPN', 'is_racism': 1, 'is_against': 0}
 {'text': '5 meses sem meu macaco 😭😭😭💔', 'is_racism': 1, 'is_against': 0}
@@ -1335,18 +1281,8 @@
 {'text': 'RT @jpintocoelho60: Toda a comunicação social adora denegrir e ridicularizar Trump incessantemente. Parece ser o seu desporto favorito. Por…', 'is_racism': 1, 'is_against': 0}
 {'text': 'Esse americano esquerdista FDP que usou hacker pra tentar denegrir a imagem do ministro Sérgio Moro e consequenteme… https://t.co/witWEPA0Ia', 'is_racism': 1, 'is_against': 0}
 {'text': '@Fabato @JanainaDoBrasil Tudo que fizerem para denegrir a imagem de nossos homens sérios, não mudará em nada, tudo… https://t.co/WLebYPVpIy', 'is_racism': 1, 'is_against': 0}
-{'text': '@Oliveiralucas66 @Karine_b24 Tá ligado eu te falo desde cedo, meu cabelo não é bombril é cabelo crespo', 'is_racism': 1, 'is_against': 1}
 {'text': 'Amanhã já é aniversário do macaco', 'is_racism': 1, 'is_against': 0}
-{'text': '@LuSapori Lu Saporra...vá pentear macaco...vá. Só fala merda. 😂', 'is_racism': 1, 'is_against': 0}
-{'text': 'RT @breakingmeths: Não deixa mais ninguém te zuar por você ter cabelo crespo\nE se algum filho da puta fala gracinha\nFica de punho cerrado e…', 'is_racism': 1, 'is_against': 1}
 {'text': 'dps de muito tempo jogando ff c macaco', 'is_racism': 1, 'is_against': 0}
-{'text': '@LulaOficial Ah! Fala sério! Querem soltar bandidos a todo custo! Tudo para denegrir a imagem do Moro e da Lava Jat… https://t.co/8h3ETZVrYW', 'is_racism': 1, 'is_against': 0}
-{'text': '@cmjornal Se repor a verdade é denegrir, então a corrupção é de louvar. Estes juízes precisam é de ir todos para a gaiola.', 'is_racism': 1, 'is_against': 0}
-{'text': 'Reportagem do site do jornalista envolvido com espionagem internacional divulga matéria tentando denegrir imagem da… https://t.co/VzzfF3sTkm', 'is_racism': 1, 'is_against': 0}
-{'text': 'RT @EJapa2: Reportagem do site do jornalista envolvido com espionagem internacional divulga matéria tentando denegrir imagem da Lava Jato;…', 'is_racism': 1, 'is_against': 0}
-{'text': '@LulaOficial A bandidagem quer denegrir a imagem dele de qualquer forma....👉🏻@SF_Moro está no caminho certo! Não pe… https://t.co/l7wVnwMy87', 'is_racism': 1, 'is_against': 0}
-{'text': 'O que me deixa fervendo de ódio é que o povo tem uma empatia falsa, na primeira oportunidade de denegrir a imagem d… https://t.co/yJQNkeDfAg', 'is_racism': 1, 'is_against': 0}
-{'text': 'Em casa: Sinho e Caio\nNa escola: Negrito, Neguinho, Macaco, Preto\nNo twitter: Negrito e Caio', 'is_racism': 1, 'is_against': 1}
 {'text': 'Boa noite, qual a sensação de pegar aquele macaco zoiúdo da moto fazer 250 do morro da formiga? — sei lá, pego ning… https://t.co/1UZVCzorjA', 'is_racism': 1, 'is_against': 0}
 {'text': 'Parece um macaco wtf', 'is_racism': 1, 'is_against': 0}
 {'text': '@palas_athenada @deltanmd NÃO querem o Brasil fora do esgoto, dos últimos 16 anos e tentam denegrir, essa é a arna… https://t.co/pzKVv8sqd2', 'is_racism': 1, 'is_against': 0}
@@ -1358,7 +1294,6 @@
 {'is_racism': 1, 'text': 'só queria saber onde está o macaco do meu mid laner velho, pqp', 'is_against': 0}
 {'is_racism': 1, 'text': 'A macaca da Pâmela não ajuda em nada, odeio esse negra', 'is_against': 0}
 {'is_racism': 1, 'text': '@__mayama_ Fui bem em todas as provas ai o macaco vei mete a pika nos aluno sem dó pra foder de jeito', 'is_against': 0}
-{'is_racism': 1, 'text': 'Não aguento me olhar no espelho pq TUDO minha família crítica \n“Tá com celulite” “cabelo ruim hein” “nossa isso é u… https://t.co/nHLwEevJOH', 'is_against': 1}
 {'is_racism': 1, 'text': 'dps eu mato um preto desse e ninguém sabe pq', 'is_against': 0}
 {'is_racism': 1, 'text': '@HdaWill é brincadeira seu macaco, eu não namoro kkkkkkk', 'is_against': 0}
 {'is_racism': 1, 'text': '@Bfrtrick Teu cu, macaco', 'is_against': 0}
@@ -1374,7 +1309,74 @@
 {'is_racism': 1, 'text': '@_Bergonzini volta pra senzala fdp', 'is_against': 0}
 {'is_racism': 1, 'text': 'Meu cabelo tá ficando crespo essa merda', 'is_against': 0}
 {'is_racism': 1, 'text': 'né nada guilherme é só n pentear ele seco crlh — tu acha q é facil ter cabelo ruim? ele nao alisa nem enrola pqp https://t.co/2Qzvsx8024', 'is_against': 0}
-{'is_racism': 1, 'text': 'Um uruguaio me chamou de macaco, denunciei o tweet e o que o Twitter fez? Agradeceu pela denúncia .... E nada mais… https://t.co/fSf9dfG7gw', 'is_against': 1}
 {'is_racism': 1, 'text': 'todo dia um macaco diferente acelerando moto na frente da minha casa, pq não corta giro até quebrar de uma vez?', 'is_against': 0}
 {'is_racism': 1, 'text': 'RT @_lvccx: Tinha que ser preto 👑✊🏾 https://t.co/i0iiqPUV9n', 'is_against': 0}
 {'is_racism': 1, 'text': '@jose_simao Esse macaco do pode ser retardado', 'is_against': 0}
+{'is_racism': 1, 'text': 'Não tenho tv colorida pra ficar olhando pra essa preta da Maju não', 'is_against': 0}
+{'is_racism': 1, 'text': 'Essa Maju parece uma sombra 3d', 'is_against': 0}
+{'is_racism': 1, 'text': 'Essa puta africana acabou de melar minha vista de oleo', 'is_against': 0}
+{'is_racism': 1, 'text': 'Como saber se o alimento preferido dessa negra é uma banana?', 'is_against': 0}
+{'is_racism': 1, 'text': 'escrava filha da puta desgraçada', 'is_against': 0}
+{'is_racism': 1, 'text': 'volta pra senzala fugitiva,...', 'is_against': 0}
+{'is_racism': 1, 'text': 'dois anos no xicote qnd teu dono te capturar de volta !!! preta imunda', 'is_against': 0}
+{'is_racism': 1, 'text': 'Essa macaca é tão preta que roubou minha tv', 'is_against': 0}
+{'is_racism': 1, 'text': 'Vai fazer essas previsões na senzala escrava do krl', 'is_against': 0}
+{'is_racism': 1, 'text': 'em terra de preto, quem come banana é rei', 'is_against': 0}
+{'is_racism': 1, 'text': 'esses preto só sabem fazer arrastão na praia em', 'is_against': 0}
+{'is_racism': 1, 'text': 'Se o kinder ovo fosse preto por dentro o brinquedo era roubado', 'is_against': 0}
+{'is_racism': 1, 'text': 'a unica opção é exterminar os negros', 'is_against': 0}
+{'is_racism': 1, 'text': 'vaza daqui preto fdp, vc não presta pra isso', 'is_against': 0}
+{'is_racism': 1, 'text': 'esses preto só faz merda', 'is_against': 0}
+{'is_racism': 1, 'text': 'preto pra mim nem é gente', 'is_against': 0}
+{'is_racism': 1, 'text': 'Volta pra senzala fdp, qm te liberou???!?', 'is_against': 0}
+{'is_racism': 1, 'text': 'Cala boca, tu é preto', 'is_against': 0}
+{'is_racism': 1, 'text': 'preto imundo', 'is_against': 0}
+{'is_racism': 1, 'text': 'essa preta merecia umas xicotadas', 'is_against': 0}
+{'is_racism': 1, 'text': 'tá faltando pau de arará pra esses preto comunista', 'is_against': 0}
+{'is_racism': 1, 'text': 'tinha que ser preto', 'is_against': 0}
+{'is_racism': 1, 'text': 'não sei se ele é preto ou é sujo', 'is_against': 0}
+{'is_racism': 1, 'text': 'ai gente, nunca iria namorar um preto nessa vida', 'is_against': 0}
+{'is_racism': 1, 'text': 'além de preto é bixa', 'is_against': 0}
+{'is_racism': 1, 'text': 'cara tu nem devia tá aqui, aqui é grupo racista seu macaco', 'is_against': 0}
+{'is_racism': 1, 'text': 'maldita mãe que botou esse macaco no mundo', 'is_against': 0}
+{'is_racism': 1, 'text': 'Acho que a única opção é exterinar os preto do mundo mesmo', 'is_against': 0}
+{'is_racism': 1, 'text': 'eca.. nariz feio de africano', 'is_against': 0}
+{'is_racism': 1, 'text': 'olha o tamanho desse beiço parece um macaco', 'is_against': 0}
+{'is_racism': 1, 'text': 'só pq eu n acho preto bonito eu sou racista?', 'is_against': 0}
+{'is_racism': 1, 'text': 'ngm liga pra sua opnião macaco fdp', 'is_against': 0}
+{'is_racism': 1, 'text': 'cabelo ruim dessa moreninha', 'is_against': 0}
+{'is_racism': 1, 'text': '@renata_rrrs preta vagabunda sai daquii!!!', 'is_against': 0}
+{'is_racism': 1, 'text': '@JU_soares pessoinha feia e nojenta essa neguinha em!', 'is_against': 0}
+{'is_racism': 1, 'text': 'Criolo nojento, tu nem sabe que meu sou.', 'is_against': 0}
+{'is_racism': 1, 'text': '@silva_jorge denegrir é racismo meu pau fdp', 'is_against': 0}
+{'is_racism': 1, 'text': 'affz cai num time chei de macaco retardado', 'is_against': 0}
+{'is_racism': 1, 'text': '@anagoncalvezz aquele nego feio kkk meu deus', 'is_against': 0}
+{'is_racism': 1, 'text': 'Mas nao basta o dia ser bosta, tenho que ler bosta de preto falando', 'is_against': 0}
+{'is_racism': 1, 'text': 'seu negro da merda devias morrer queimado cabrao do caralho espero que a puta da tua mae tenha cancro e morra desmembrada corno da merda filho da puta bebe lixivia cabrao https://t.co/moOHkr0SMb', 'is_against': 0}
+{'is_racism': 1, 'text': '@InnocentGhoster vc e preto negro fedido', 'is_against': 0}
+{'is_racism': 1, 'text': 'eu odeio gente negra', 'is_against': 0}
+{'is_racism': 1, 'text': 'ai gente, pq todo preto é fedido?', 'is_against': 0}
+{'is_racism': 1, 'text': 'negro é uma coisa estrah né? Nariz grande, cabelo duro, eca', 'is_against': 0}
+{'is_racism': 1, 'text': 'ngm te perguntou não, seu preto demente', 'is_against': 0}
+{'is_racism': 1, 'text': 'que nojo desses macaco sujo no onibus', 'is_against': 0}
+{'is_racism': 1, 'text': 'negrinho é escroto né mano, pra que isso?', 'is_against': 0}
+{'is_racism': 1, 'text': 'negrinho pé de pano, vai ser cobrado', 'is_against': 0}
+{'is_racism': 1, 'text': 'pra mim todo preto é ladrão', 'is_against': 0}
+{'is_racism': 1, 'text': 'que que essa escrava tava fazendo no shopping?', 'is_against': 0}
+{'is_racism': 1, 'text': 'volta pra senzala sua escrava', 'is_against': 0}
+{'is_racism': 1, 'text': 'preto imundo, seu patrão vai te pegar no chicote', 'is_against': 0}
+{'is_racism': 1, 'text': 'essa morena parece uma empregadinha', 'is_against': 0}
+{'is_racism': 1, 'text': 'Jay z é o único preto que presta no mundo', 'is_against': 0}
+{'is_racism': 1, 'text': 'Se gritar pega ladrão, não fica um preto mermão', 'is_against': 0}
+{'is_racism': 1, 'text': '@iza_alves tu parece é uma escrava', 'is_against': 0}
+{'is_racism': 1, 'text': 'maldito dia que liberaram esses escravos', 'is_against': 0}
+{'is_racism': 1, 'text': 'Horrível ver esse povinho negro se aproveitando da sociedade que a gente criou', 'is_against': 0}
+{'is_racism': 1, 'text': '@leticia_reis você gosta é de banana né sua macaca???', 'is_against': 0}
+{'is_racism': 1, 'text': 'hoje o bus foi assaltado por dois pretos fdp', 'is_against': 0}
+{'is_racism': 1, 'text': 'esses bostas só sabe roba, bando de negro fudido qee não estuda', 'is_against': 0}
+{'is_racism': 1, 'text': 'tinha que mandar esses fudido tudo de volta pra áfrica', 'is_against': 0}
+{'is_racism': 1, 'text': '@BolsonaroSP pq vc tem esse preto gordo do seu lado?', 'is_against': 0}
+{'is_racism': 1, 'text': 'já viram o escravo de estimação do @BolsonaroSP?', 'is_against': 0}
+{'is_racism': 1, 'text': 'vo cria uma senzala e bota vcs td la', 'is_against': 0}
+{'is_racism': 1, 'text': 'veeeeey que cabelo feio o desse preto', 'is_against': 0}
+{'is_racism': 1, 'text': 'que nojo de vc morena do cabelo ruim', 'is_against': 0}

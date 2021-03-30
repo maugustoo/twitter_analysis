@@ -3,4 +3,4 @@
 {'text': 'Aquele preto desgraçado : a\n\nEu :', 'is_racism': 1, 'is_against': 0}
 {'text': '@jenifferbragion Cabelo ruim é assim', 'is_racism': 1, 'is_against': 0}
 {'text': 'q raiva me responde seu macaco anao', 'is_racism': 1, 'is_against': 0}
-{'text': 'Te acho lindo pena ser negro e serve só pra ficar namorar jamais — analisa bem o que vc escreveu e me fala QUEM tem… https://t.co/it1xgoZTZt', 'is_racism': 1, 'is_against': 0}
+{'text': 'Te acho lindo pena ser negro e serve só pra ficar namorar jamais', 'is_racism': 1, 'is_against': 0}

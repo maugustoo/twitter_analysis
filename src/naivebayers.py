@@ -24,11 +24,10 @@ resultados = cross_val_predict(modelo, freq_tweets, classes, cv=10)
 print(metrics.accuracy_score(classes, resultados))
 
 
-testes = ['Ah, vsf esse preto inutil',
-         'Lá vem o cara falando merda',
-         'Denegrir?? Sério??',
-         'negrinho escroto mano, pra que isos?',
-         'denegrir a gente']
-
-freq_testes = vectorizer.transform(testes)
-print(modelo.predict(freq_testes))
+# testes = ['Ah, vsf esse cabelo ruim',
+#          'Tomar no cu macaco denegrir',
+#          'negrinho escroto mano, pra que isos?',
+#          'denegrir a gente']
+#
+# freq_testes = vectorizer.transform(testes)
+# print(modelo.predict(freq_testes))
