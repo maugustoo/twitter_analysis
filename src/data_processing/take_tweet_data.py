@@ -1,8 +1,8 @@
+# Routine to get the necessary data from each of the tweets and save it in a file
 import json
 import pandas as pd
-#import matplotlib.pyplot as plt
 
-tweets_data_path = './to_analysi/data_users2.txt'
+tweets_data_path = '././to_analysi/data_users2.txt'
 
 tweets_data = []
 tweets_file = open(tweets_data_path, "r")

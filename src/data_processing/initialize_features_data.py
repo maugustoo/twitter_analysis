@@ -1,8 +1,8 @@
+# Routine to initiate the features to be labeled
 import json
 import pandas as pd
-#import matplotlib.pyplot as plt
 
-tweets_data_path = './used_data/used_data_users2.txt'
+tweets_data_path = '././used_data/used_data_users2.txt'
 
 tweets_data = []
 tweets_file = open(tweets_data_path, "r", encoding='utf8')
